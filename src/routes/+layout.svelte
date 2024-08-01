@@ -3,6 +3,9 @@
 </script>
 
 <div class="app">
+	<header class="bg-black py-2 text-white">
+		<h1 class="font-semibold text-4xl">Alfabits</h1>
+	</header>
 	<main>
 		<slot />
 	</main>
@@ -19,28 +22,10 @@
 		flex: 1;
 		display: flex;
 		flex-direction: column;
-		padding: 1rem;
+
 		width: 100%;
 		max-width: 64rem;
 		margin: 0 auto;
 		box-sizing: border-box;
-	}
-
-	footer {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 12px;
-	}
-
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 12px 0;
-		}
 	}
 </style>

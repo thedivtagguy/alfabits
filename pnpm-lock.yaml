@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  '@fontsource/libre-caslon-condensed':
+    specifier: ^5.0.2
+    version: 5.0.2
+
 devDependencies:
   '@fontsource/fira-mono':
     specifier: ^5.0.0
@@ -350,6 +355,10 @@ packages:
   /@fontsource/fira-mono@5.0.13:
     resolution: {integrity: sha512-fZDjR2BdAqmauEbTjcIT62zYzbOgDa5+IQH34D2k8Pxmy1T815mAqQkZciWZVQ9dc/BgdTtTUV9HJ2ulBNwchg==}
     dev: true
+
+  /@fontsource/libre-caslon-condensed@5.0.2:
+    resolution: {integrity: sha512-JcFv0UdMAi1UdfaT6km2Y6Efkmg0m4ln9mMnIP4OCpXDthIydGjaFfrqjUYPfHifnhOAxqVml2JR4OaCzBi4CQ==}
+    dev: false
 
   /@humanwhocodes/module-importer@1.0.1:
     resolution: {integrity: sha512-bxveV4V8v5Yb4ncFTT3rPSgZBOpCkjfK0y4oVVVJwIuDVBRMDXrPyXRL988i5ap9m9bnyEEjWfm5WkBmtffLfA==}

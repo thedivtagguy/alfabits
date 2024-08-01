@@ -85,22 +85,19 @@
 			correctGuesses = JSON.parse(savedGuesses);
 		}
 	}
-
-	let inputElement; // reference to the input element
-
-	onMount(async () => {
-		await generateNewPattern();
-		loadGuesses();
-		inputElement.focus();
-	});
 </script>
 
 <svelte:window on:keydown={handleKeyPress} />
-<main>
-	<h1>Word Guessing Game</h1>
-
-	<div class="info">
-		<p>Today's pattern: <span class="pattern">{pattern}</span></p>
+<main class="max-w-xs">
+	<div class="info flex flex-col justify-center items-center">
+		<div class="today my-6 flex gap-2">
+			{#each pattern.split('') as letter}
+				<span
+					class="text-5xl font-serif flex font-bold justify-center capitalize items-center bg-purple text-white p-3 size-16"
+					>{letter}</span
+				>
+			{/each}
+		</div>
 		<p>Correct guesses: {correctGuesses.length} / {words.length}</p>
 	</div>
 
@@ -112,13 +109,7 @@
 
 	{#if gameState === 'playing'}
 		<div class="user-input">
-			<input
-				bind:this={inputElement}
-				type="text"
-				bind:value={userGuess}
-				placeholder="Type your guess"
-				readonly
-			/>
+			<input type="text" bind:value={userGuess} placeholder="Type your guess" readonly />
 		</div>
 		<Keyboard on:keyPress={handleKeyPress} {userGuess} />
 	{:else}
@@ -131,20 +122,9 @@
 
 <style>
 	main {
-		max-width: 800px;
 		margin: 0 auto;
-		padding: 20px;
+
 		font-family: Arial, sans-serif;
-	}
-
-	h1 {
-		text-align: center;
-		color: #ff3e00;
-	}
-
-	.info {
-		text-align: center;
-		margin-bottom: 20px;
 	}
 
 	.pattern {
