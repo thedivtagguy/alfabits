@@ -1,11 +1,10 @@
 <script>
 	import { onMount } from 'svelte';
 	import { fade, fly } from 'svelte/transition';
-	import { confetti } from '@neoconfetti/svelte';
 	import Keyboard from './Keyboard.svelte';
 	import WordList from './WordList.svelte';
-	import { reduced_motion } from './reduced-motion';
 
+	export let data;
 	let pattern = '';
 	let words = [];
 	let userGuess = '';
@@ -18,6 +17,7 @@
 
 	onMount(async () => {
 		await generateNewPattern();
+		loadGuesses();
 	});
 
 	async function generateNewPattern() {
@@ -51,6 +51,7 @@
 		if (words.includes(userGuess) && !correctGuesses.includes(userGuess)) {
 			correctGuesses = [userGuess, ...correctGuesses];
 			message = 'Correct!';
+			saveGuesses();
 			if (correctGuesses.length === words.length) {
 				gameState = 'won';
 			}
@@ -63,17 +64,30 @@
 	}
 
 	function handleKeyPress(event) {
-		const key = event.detail;
-		if (key === 'enter') {
+		if (event.key === 'Enter') {
 			checkGuess();
-		} else if (key === 'backspace') {
+		} else if (event.key === 'Backspace') {
 			userGuess = userGuess.slice(0, -1);
-		} else if (userGuess.length < 15) {
-			userGuess += key;
+		} else if (event.key.length === 1) {
+			userGuess += event.key;
+		}
+	}
+
+	function saveGuesses() {
+		const today = new Date().toISOString().split('T')[0];
+		localStorage.setItem(`guesses_${today}`, JSON.stringify(correctGuesses));
+	}
+
+	function loadGuesses() {
+		const today = new Date().toISOString().split('T')[0];
+		const savedGuesses = localStorage.getItem(`guesses_${today}`);
+		if (savedGuesses) {
+			correctGuesses = JSON.parse(savedGuesses);
 		}
 	}
 </script>
 
+<svelte:window on:keydown={handleKeyPress} />
 <main>
 	<h1>Word Guessing Game</h1>
 
@@ -91,7 +105,6 @@
 	{#if gameState === 'playing'}
 		<div class="user-input">
 			<input disabled type="text" bind:value={userGuess} placeholder="Type your guess" readonly />
-			<!-- <button on:click={checkGuess} disabled={!userGuess}>Submit</button> -->
 		</div>
 		<Keyboard on:keyPress={handleKeyPress} {userGuess} />
 	{:else}
@@ -101,19 +114,6 @@
 		</div>
 	{/if}
 </main>
-
-{#if gameState === 'won'}
-	<div
-		style="position: absolute; left: 50%; top: 30%"
-		use:confetti={{
-			particleCount: $reduced_motion ? 0 : undefined,
-			force: 0.7,
-			stageWidth: window.innerWidth,
-			stageHeight: window.innerHeight,
-			colors: ['#ff3e00', '#40b3ff', '#676778']
-		}}
-	></div>
-{/if}
 
 <style>
 	main {

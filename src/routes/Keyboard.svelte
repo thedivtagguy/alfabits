@@ -17,24 +17,6 @@
 		showKeyPress(key);
 	}
 
-	function handleKeydown(event) {
-		let key = event.key.toLowerCase();
-
-		if (key === 'enter') {
-			key = 'enter';
-		} else if (key === 'backspace') {
-			key = 'backspace';
-		} else if (key.length > 1) {
-			return;
-		}
-
-		if (rows.flat().includes(key)) {
-			event.preventDefault();
-			dispatch('keyPress', key);
-			showKeyPress(key);
-		}
-	}
-
 	function showKeyPress(key) {
 		pressedKey = key;
 		setTimeout(() => {
@@ -43,14 +25,6 @@
 			}
 		}, 100);
 	}
-
-	onMount(() => {
-		window.addEventListener('keydown', handleKeydown);
-	});
-
-	onDestroy(() => {
-		window.removeEventListener('keydown', handleKeydown);
-	});
 </script>
 
 <div class="keyboard">
@@ -61,7 +35,6 @@
 					on:click={() => handleClick(key)}
 					class:wide={key === 'enter' || key === 'backspace'}
 					class:pressed={pressedKey === key}
-					disabled={key !== 'backspace' && key !== 'enter' && userGuess.length >= 15}
 				>
 					{key}
 				</button>
