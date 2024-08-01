@@ -90,8 +90,8 @@
 
 	{#if gameState === 'playing'}
 		<div class="user-input">
-			<input type="text" bind:value={userGuess} placeholder="Type your guess" readonly />
-			<button on:click={checkGuess} disabled={!userGuess}>Submit</button>
+			<input disabled type="text" bind:value={userGuess} placeholder="Type your guess" readonly />
+			<!-- <button on:click={checkGuess} disabled={!userGuess}>Submit</button> -->
 		</div>
 		<Keyboard on:keyPress={handleKeyPress} {userGuess} />
 	{:else}
