@@ -85,6 +85,14 @@
 			correctGuesses = JSON.parse(savedGuesses);
 		}
 	}
+
+	let inputElement; // reference to the input element
+
+	onMount(async () => {
+		await generateNewPattern();
+		loadGuesses();
+		inputElement.focus(); // focus on the input element
+	});
 </script>
 
 <svelte:window on:keydown={handleKeyPress} />
@@ -104,7 +112,14 @@
 
 	{#if gameState === 'playing'}
 		<div class="user-input">
-			<input disabled type="text" bind:value={userGuess} placeholder="Type your guess" readonly />
+			<input
+				bind:this={inputElement}
+				disabled
+				type="text"
+				bind:value={userGuess}
+				placeholder="Type your guess"
+				readonly
+			/>
 		</div>
 		<Keyboard on:keyPress={handleKeyPress} {userGuess} />
 	{:else}
