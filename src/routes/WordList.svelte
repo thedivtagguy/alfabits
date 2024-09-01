@@ -1,54 +1,63 @@
-<script>
-	import { fade, fly } from 'svelte/transition';
+<script lang="ts">
+	export let pattern: string;
+	import { fade } from 'svelte/transition';
+	import { fly } from 'svelte/transition';
+	export let wordList: { word: string; score: number }[];
 
-	export let pattern;
-	export let words;
-
-	function highlightWord(word) {
+	function getLetterClass(word: string, letter: string, index: number): string {
 		let patternIndex = 0;
-		let result = word.split('').map((letter) => ({ letter, class: 'other' }));
-
-		// Find the first occurrence of the complete pattern
-		let startIndex = word.toLowerCase().indexOf(pattern.toLowerCase());
-
-		if (startIndex !== -1) {
-			for (let i = 0; i < pattern.length; i++) {
-				result[startIndex + i].class = 'pattern';
+		for (let i = 0; i <= index; i++) {
+			if (word[i] === pattern[patternIndex]) {
+				patternIndex++;
 			}
 		}
 
-		return result;
+		if (patternIndex > 0 && letter === pattern[patternIndex - 1]) {
+			return 'bg-orange text-white';
+		}
+
+		return 'bg-gray-200 text-gray-600';
 	}
 </script>
 
-<div class="word-list">
-	{#each words as word (word)}
-		<div class="word" in:fly={{ y: 50, duration: 300 }} out:fade>
-			{#each highlightWord(word) as { letter, class: className }}
-				<span class={className}>{letter}</span>
-			{/each}
-		</div>
-	{/each}
+<div class="m-3 overflow-hidden word-list">
+	<ul class="space-y-2 font-sans font-bold uppercase">
+		{#each wordList as { word, score }}
+			<li
+				in:fly={{ x: -50 }}
+				class="flex items-center justify-between h-12 border border-gray-300 rounded-md"
+			>
+				<div class="flex items-center flex-1 w-16 h-full overflow-x-scroll word-container">
+					{#each word.split('') as letter, index}
+						<span
+							class="flex items-center justify-center h-full aspect-square {getLetterClass(
+								word,
+								letter,
+								index
+							)}">{letter}</span
+						>
+					{/each}
+				</div>
+				<span
+					class="flex items-center justify-center w-12 h-full ml-3 text-xs text-center text-gray-600 border-l border-gray-300 whitespace-nowrap"
+				>
+					+ {score}
+				</span>
+			</li>
+		{/each}
+	</ul>
 </div>
 
 <style>
-	.word-list {
-		max-height: 300px;
-		overflow-y: auto;
-		border: 1px solid #ccc;
-		border-radius: 5px;
-		padding: 10px;
-		margin-bottom: 20px;
+	li {
+		font-size: clamp(0.5rem, 20vh, 1.5rem);
 	}
-	.word {
-		margin-bottom: 5px;
-		font-size: 1.2em;
+
+	li > div {
+		gap: 1px;
 	}
-	.pattern {
-		color: #8a2be2;
-		font-weight: bold;
-	}
-	.other {
-		color: #ffd700;
+
+	li > div > span {
+		aspect-ratio: 1;
 	}
 </style>

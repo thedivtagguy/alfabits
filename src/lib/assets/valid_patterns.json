@@ -1,0 +1,7602 @@
+[
+  {
+    "pattern": "rbi",
+    "word_count": 125
+  },
+  {
+    "pattern": "vey",
+    "word_count": 31
+  },
+  {
+    "pattern": "nho",
+    "word_count": 39
+  },
+  {
+    "pattern": "rla",
+    "word_count": 58
+  },
+  {
+    "pattern": "rax",
+    "word_count": 33
+  },
+  {
+    "pattern": "ass",
+    "word_count": 655
+  },
+  {
+    "pattern": "het",
+    "word_count": 184
+  },
+  {
+    "pattern": "hum",
+    "word_count": 145
+  },
+  {
+    "pattern": "lud",
+    "word_count": 79
+  },
+  {
+    "pattern": "tel",
+    "word_count": 336
+  },
+  {
+    "pattern": "ira",
+    "word_count": 153
+  },
+  {
+    "pattern": "deg",
+    "word_count": 36
+  },
+  {
+    "pattern": "eag",
+    "word_count": 51
+  },
+  {
+    "pattern": "rdo",
+    "word_count": 70
+  },
+  {
+    "pattern": "rin",
+    "word_count": 951
+  },
+  {
+    "pattern": "exi",
+    "word_count": 137
+  },
+  {
+    "pattern": "eco",
+    "word_count": 290
+  },
+  {
+    "pattern": "rgi",
+    "word_count": 115
+  },
+  {
+    "pattern": "lau",
+    "word_count": 124
+  },
+  {
+    "pattern": "oup",
+    "word_count": 57
+  },
+  {
+    "pattern": "rip",
+    "word_count": 212
+  },
+  {
+    "pattern": "cta",
+    "word_count": 172
+  },
+  {
+    "pattern": "ebr",
+    "word_count": 107
+  },
+  {
+    "pattern": "nro",
+    "word_count": 33
+  },
+  {
+    "pattern": "lfi",
+    "word_count": 42
+  },
+  {
+    "pattern": "lor",
+    "word_count": 259
+  },
+  {
+    "pattern": "fru",
+    "word_count": 40
+  },
+  {
+    "pattern": "meg",
+    "word_count": 70
+  },
+  {
+    "pattern": "cat",
+    "word_count": 798
+  },
+  {
+    "pattern": "lis",
+    "word_count": 636
+  },
+  {
+    "pattern": "def",
+    "word_count": 169
+  },
+  {
+    "pattern": "nop",
+    "word_count": 109
+  },
+  {
+    "pattern": "alp",
+    "word_count": 77
+  },
+  {
+    "pattern": "lad",
+    "word_count": 151
+  },
+  {
+    "pattern": "wen",
+    "word_count": 33
+  },
+  {
+    "pattern": "lia",
+    "word_count": 379
+  },
+  {
+    "pattern": "lth",
+    "word_count": 34
+  },
+  {
+    "pattern": "nis",
+    "word_count": 518
+  },
+  {
+    "pattern": "req",
+    "word_count": 45
+  },
+  {
+    "pattern": "pau",
+    "word_count": 33
+  },
+  {
+    "pattern": "ore",
+    "word_count": 563
+  },
+  {
+    "pattern": "ead",
+    "word_count": 422
+  },
+  {
+    "pattern": "igh",
+    "word_count": 505
+  },
+  {
+    "pattern": "chy",
+    "word_count": 110
+  },
+  {
+    "pattern": "eos",
+    "word_count": 35
+  },
+  {
+    "pattern": "bie",
+    "word_count": 60
+  },
+  {
+    "pattern": "nom",
+    "word_count": 225
+  },
+  {
+    "pattern": "dru",
+    "word_count": 56
+  },
+  {
+    "pattern": "rou",
+    "word_count": 509
+  },
+  {
+    "pattern": "ray",
+    "word_count": 101
+  },
+  {
+    "pattern": "ita",
+    "word_count": 493
+  },
+  {
+    "pattern": "emp",
+    "word_count": 246
+  },
+  {
+    "pattern": "min",
+    "word_count": 850
+  },
+  {
+    "pattern": "roo",
+    "word_count": 233
+  },
+  {
+    "pattern": "epp",
+    "word_count": 43
+  },
+  {
+    "pattern": "rac",
+    "word_count": 632
+  },
+  {
+    "pattern": "mir",
+    "word_count": 79
+  },
+  {
+    "pattern": "osp",
+    "word_count": 107
+  },
+  {
+    "pattern": "cob",
+    "word_count": 41
+  },
+  {
+    "pattern": "rra",
+    "word_count": 215
+  },
+  {
+    "pattern": "mul",
+    "word_count": 208
+  },
+  {
+    "pattern": "ilb",
+    "word_count": 31
+  },
+  {
+    "pattern": "ath",
+    "word_count": 495
+  },
+  {
+    "pattern": "tob",
+    "word_count": 34
+  },
+  {
+    "pattern": "loy",
+    "word_count": 50
+  },
+  {
+    "pattern": "ied",
+    "word_count": 236
+  },
+  {
+    "pattern": "eit",
+    "word_count": 74
+  },
+  {
+    "pattern": "cil",
+    "word_count": 126
+  },
+  {
+    "pattern": "air",
+    "word_count": 284
+  },
+  {
+    "pattern": "bst",
+    "word_count": 100
+  },
+  {
+    "pattern": "edn",
+    "word_count": 41
+  },
+  {
+    "pattern": "efa",
+    "word_count": 70
+  },
+  {
+    "pattern": "ncl",
+    "word_count": 76
+  },
+  {
+    "pattern": "cry",
+    "word_count": 77
+  },
+  {
+    "pattern": "bet",
+    "word_count": 109
+  },
+  {
+    "pattern": "nad",
+    "word_count": 88
+  },
+  {
+    "pattern": "nua",
+    "word_count": 47
+  },
+  {
+    "pattern": "lli",
+    "word_count": 600
+  },
+  {
+    "pattern": "fas",
+    "word_count": 79
+  },
+  {
+    "pattern": "whi",
+    "word_count": 170
+  },
+  {
+    "pattern": "ylo",
+    "word_count": 64
+  },
+  {
+    "pattern": "tua",
+    "word_count": 167
+  },
+  {
+    "pattern": "cri",
+    "word_count": 339
+  },
+  {
+    "pattern": "ava",
+    "word_count": 157
+  },
+  {
+    "pattern": "atu",
+    "word_count": 203
+  },
+  {
+    "pattern": "pin",
+    "word_count": 470
+  },
+  {
+    "pattern": "stm",
+    "word_count": 37
+  },
+  {
+    "pattern": "ffe",
+    "word_count": 228
+  },
+  {
+    "pattern": "onv",
+    "word_count": 119
+  },
+  {
+    "pattern": "ngs",
+    "word_count": 142
+  },
+  {
+    "pattern": "hor",
+    "word_count": 438
+  },
+  {
+    "pattern": "nig",
+    "word_count": 100
+  },
+  {
+    "pattern": "and",
+    "word_count": 839
+  },
+  {
+    "pattern": "lub",
+    "word_count": 54
+  },
+  {
+    "pattern": "agg",
+    "word_count": 209
+  },
+  {
+    "pattern": "wed",
+    "word_count": 110
+  },
+  {
+    "pattern": "fec",
+    "word_count": 109
+  },
+  {
+    "pattern": "vis",
+    "word_count": 252
+  },
+  {
+    "pattern": "fed",
+    "word_count": 64
+  },
+  {
+    "pattern": "ecu",
+    "word_count": 149
+  },
+  {
+    "pattern": "ent",
+    "word_count": 981
+  },
+  {
+    "pattern": "rte",
+    "word_count": 306
+  },
+  {
+    "pattern": "gui",
+    "word_count": 136
+  },
+  {
+    "pattern": "rfo",
+    "word_count": 32
+  },
+  {
+    "pattern": "aws",
+    "word_count": 33
+  },
+  {
+    "pattern": "age",
+    "word_count": 667
+  },
+  {
+    "pattern": "coc",
+    "word_count": 143
+  },
+  {
+    "pattern": "ngu",
+    "word_count": 150
+  },
+  {
+    "pattern": "qua",
+    "word_count": 397
+  },
+  {
+    "pattern": "azi",
+    "word_count": 69
+  },
+  {
+    "pattern": "rli",
+    "word_count": 110
+  },
+  {
+    "pattern": "nav",
+    "word_count": 46
+  },
+  {
+    "pattern": "dac",
+    "word_count": 69
+  },
+  {
+    "pattern": "eil",
+    "word_count": 45
+  },
+  {
+    "pattern": "awl",
+    "word_count": 50
+  },
+  {
+    "pattern": "mio",
+    "word_count": 32
+  },
+  {
+    "pattern": "ugg",
+    "word_count": 102
+  },
+  {
+    "pattern": "eli",
+    "word_count": 587
+  },
+  {
+    "pattern": "iou",
+    "word_count": 435
+  },
+  {
+    "pattern": "ayo",
+    "word_count": 30
+  },
+  {
+    "pattern": "tra",
+    "word_count": 971
+  },
+  {
+    "pattern": "ung",
+    "word_count": 163
+  },
+  {
+    "pattern": "lig",
+    "word_count": 289
+  },
+  {
+    "pattern": "len",
+    "word_count": 387
+  },
+  {
+    "pattern": "deo",
+    "word_count": 47
+  },
+  {
+    "pattern": "unb",
+    "word_count": 69
+  },
+  {
+    "pattern": "ert",
+    "word_count": 440
+  },
+  {
+    "pattern": "ory",
+    "word_count": 284
+  },
+  {
+    "pattern": "iel",
+    "word_count": 99
+  },
+  {
+    "pattern": "ret",
+    "word_count": 478
+  },
+  {
+    "pattern": "bea",
+    "word_count": 196
+  },
+  {
+    "pattern": "sas",
+    "word_count": 50
+  },
+  {
+    "pattern": "exo",
+    "word_count": 56
+  },
+  {
+    "pattern": "dwi",
+    "word_count": 36
+  },
+  {
+    "pattern": "gam",
+    "word_count": 145
+  },
+  {
+    "pattern": "uri",
+    "word_count": 362
+  },
+  {
+    "pattern": "die",
+    "word_count": 192
+  },
+  {
+    "pattern": "uno",
+    "word_count": 48
+  },
+  {
+    "pattern": "awk",
+    "word_count": 43
+  },
+  {
+    "pattern": "sap",
+    "word_count": 84
+  },
+  {
+    "pattern": "eid",
+    "word_count": 40
+  },
+  {
+    "pattern": "kit",
+    "word_count": 50
+  },
+  {
+    "pattern": "hat",
+    "word_count": 125
+  },
+  {
+    "pattern": "ego",
+    "word_count": 110
+  },
+  {
+    "pattern": "hio",
+    "word_count": 62
+  },
+  {
+    "pattern": "fat",
+    "word_count": 83
+  },
+  {
+    "pattern": "mma",
+    "word_count": 126
+  },
+  {
+    "pattern": "ult",
+    "word_count": 300
+  },
+  {
+    "pattern": "ppy",
+    "word_count": 55
+  },
+  {
+    "pattern": "oof",
+    "word_count": 68
+  },
+  {
+    "pattern": "pip",
+    "word_count": 60
+  },
+  {
+    "pattern": "inf",
+    "word_count": 217
+  },
+  {
+    "pattern": "dec",
+    "word_count": 279
+  },
+  {
+    "pattern": "fel",
+    "word_count": 87
+  },
+  {
+    "pattern": "ene",
+    "word_count": 743
+  },
+  {
+    "pattern": "ich",
+    "word_count": 191
+  },
+  {
+    "pattern": "iod",
+    "word_count": 40
+  },
+  {
+    "pattern": "rpi",
+    "word_count": 47
+  },
+  {
+    "pattern": "emb",
+    "word_count": 193
+  },
+  {
+    "pattern": "sad",
+    "word_count": 67
+  },
+  {
+    "pattern": "xpe",
+    "word_count": 79
+  },
+  {
+    "pattern": "ban",
+    "word_count": 258
+  },
+  {
+    "pattern": "dem",
+    "word_count": 256
+  },
+  {
+    "pattern": "mpu",
+    "word_count": 70
+  },
+  {
+    "pattern": "lti",
+    "word_count": 170
+  },
+  {
+    "pattern": "las",
+    "word_count": 369
+  },
+  {
+    "pattern": "ran",
+    "word_count": 969
+  },
+  {
+    "pattern": "ism",
+    "word_count": 772
+  },
+  {
+    "pattern": "dex",
+    "word_count": 37
+  },
+  {
+    "pattern": "sui",
+    "word_count": 51
+  },
+  {
+    "pattern": "bus",
+    "word_count": 155
+  },
+  {
+    "pattern": "aby",
+    "word_count": 44
+  },
+  {
+    "pattern": "iph",
+    "word_count": 67
+  },
+  {
+    "pattern": "dba",
+    "word_count": 30
+  },
+  {
+    "pattern": "lba",
+    "word_count": 34
+  },
+  {
+    "pattern": "mig",
+    "word_count": 47
+  },
+  {
+    "pattern": "dun",
+    "word_count": 61
+  },
+  {
+    "pattern": "ops",
+    "word_count": 88
+  },
+  {
+    "pattern": "eca",
+    "word_count": 173
+  },
+  {
+    "pattern": "ubs",
+    "word_count": 93
+  },
+  {
+    "pattern": "jec",
+    "word_count": 83
+  },
+  {
+    "pattern": "roc",
+    "word_count": 275
+  },
+  {
+    "pattern": "qui",
+    "word_count": 472
+  },
+  {
+    "pattern": "nuc",
+    "word_count": 36
+  },
+  {
+    "pattern": "oci",
+    "word_count": 122
+  },
+  {
+    "pattern": "tiz",
+    "word_count": 102
+  },
+  {
+    "pattern": "med",
+    "word_count": 288
+  },
+  {
+    "pattern": "rna",
+    "word_count": 180
+  },
+  {
+    "pattern": "mah",
+    "word_count": 34
+  },
+  {
+    "pattern": "rni",
+    "word_count": 167
+  },
+  {
+    "pattern": "fut",
+    "word_count": 36
+  },
+  {
+    "pattern": "jur",
+    "word_count": 55
+  },
+  {
+    "pattern": "eut",
+    "word_count": 83
+  },
+  {
+    "pattern": "cus",
+    "word_count": 184
+  },
+  {
+    "pattern": "olt",
+    "word_count": 69
+  },
+  {
+    "pattern": "ild",
+    "word_count": 102
+  },
+  {
+    "pattern": "uch",
+    "word_count": 168
+  },
+  {
+    "pattern": "eiv",
+    "word_count": 36
+  },
+  {
+    "pattern": "phy",
+    "word_count": 259
+  },
+  {
+    "pattern": "nod",
+    "word_count": 57
+  },
+  {
+    "pattern": "mou",
+    "word_count": 209
+  },
+  {
+    "pattern": "syl",
+    "word_count": 34
+  },
+  {
+    "pattern": "jud",
+    "word_count": 51
+  },
+  {
+    "pattern": "rsi",
+    "word_count": 163
+  },
+  {
+    "pattern": "ant",
+    "word_count": 980
+  },
+  {
+    "pattern": "hyd",
+    "word_count": 102
+  },
+  {
+    "pattern": "odd",
+    "word_count": 66
+  },
+  {
+    "pattern": "gma",
+    "word_count": 68
+  },
+  {
+    "pattern": "hae",
+    "word_count": 56
+  },
+  {
+    "pattern": "alv",
+    "word_count": 72
+  },
+  {
+    "pattern": "ago",
+    "word_count": 193
+  },
+  {
+    "pattern": "arm",
+    "word_count": 245
+  },
+  {
+    "pattern": "idl",
+    "word_count": 56
+  },
+  {
+    "pattern": "urb",
+    "word_count": 103
+  },
+  {
+    "pattern": "ocl",
+    "word_count": 42
+  },
+  {
+    "pattern": "fun",
+    "word_count": 91
+  },
+  {
+    "pattern": "try",
+    "word_count": 151
+  },
+  {
+    "pattern": "ork",
+    "word_count": 182
+  },
+  {
+    "pattern": "pse",
+    "word_count": 71
+  },
+  {
+    "pattern": "rep",
+    "word_count": 336
+  },
+  {
+    "pattern": "ons",
+    "word_count": 715
+  },
+  {
+    "pattern": "nca",
+    "word_count": 103
+  },
+  {
+    "pattern": "nsm",
+    "word_count": 33
+  },
+  {
+    "pattern": "lom",
+    "word_count": 104
+  },
+  {
+    "pattern": "lic",
+    "word_count": 471
+  },
+  {
+    "pattern": "oms",
+    "word_count": 33
+  },
+  {
+    "pattern": "iev",
+    "word_count": 80
+  },
+  {
+    "pattern": "aka",
+    "word_count": 47
+  },
+  {
+    "pattern": "aco",
+    "word_count": 149
+  },
+  {
+    "pattern": "rly",
+    "word_count": 100
+  },
+  {
+    "pattern": "uie",
+    "word_count": 35
+  },
+  {
+    "pattern": "egi",
+    "word_count": 127
+  },
+  {
+    "pattern": "ntr",
+    "word_count": 416
+  },
+  {
+    "pattern": "sen",
+    "word_count": 380
+  },
+  {
+    "pattern": "mac",
+    "word_count": 207
+  },
+  {
+    "pattern": "ssy",
+    "word_count": 44
+  },
+  {
+    "pattern": "nbe",
+    "word_count": 42
+  },
+  {
+    "pattern": "ebo",
+    "word_count": 111
+  },
+  {
+    "pattern": "ily",
+    "word_count": 196
+  },
+  {
+    "pattern": "xin",
+    "word_count": 48
+  },
+  {
+    "pattern": "der",
+    "word_count": 950
+  },
+  {
+    "pattern": "may",
+    "word_count": 34
+  },
+  {
+    "pattern": "hep",
+    "word_count": 40
+  },
+  {
+    "pattern": "fit",
+    "word_count": 72
+  },
+  {
+    "pattern": "azo",
+    "word_count": 45
+  },
+  {
+    "pattern": "sea",
+    "word_count": 162
+  },
+  {
+    "pattern": "rpe",
+    "word_count": 85
+  },
+  {
+    "pattern": "nwa",
+    "word_count": 38
+  },
+  {
+    "pattern": "fol",
+    "word_count": 100
+  },
+  {
+    "pattern": "anu",
+    "word_count": 107
+  },
+  {
+    "pattern": "uet",
+    "word_count": 73
+  },
+  {
+    "pattern": "omo",
+    "word_count": 214
+  },
+  {
+    "pattern": "izz",
+    "word_count": 58
+  },
+  {
+    "pattern": "noo",
+    "word_count": 52
+  },
+  {
+    "pattern": "wes",
+    "word_count": 37
+  },
+  {
+    "pattern": "pag",
+    "word_count": 61
+  },
+  {
+    "pattern": "efl",
+    "word_count": 54
+  },
+  {
+    "pattern": "igi",
+    "word_count": 121
+  },
+  {
+    "pattern": "vie",
+    "word_count": 90
+  },
+  {
+    "pattern": "osi",
+    "word_count": 426
+  },
+  {
+    "pattern": "orl",
+    "word_count": 57
+  },
+  {
+    "pattern": "yre",
+    "word_count": 34
+  },
+  {
+    "pattern": "ips",
+    "word_count": 93
+  },
+  {
+    "pattern": "dry",
+    "word_count": 41
+  },
+  {
+    "pattern": "ulc",
+    "word_count": 44
+  },
+  {
+    "pattern": "vou",
+    "word_count": 55
+  },
+  {
+    "pattern": "opu",
+    "word_count": 45
+  },
+  {
+    "pattern": "tox",
+    "word_count": 37
+  },
+  {
+    "pattern": "yti",
+    "word_count": 44
+  },
+  {
+    "pattern": "ido",
+    "word_count": 106
+  },
+  {
+    "pattern": "hee",
+    "word_count": 158
+  },
+  {
+    "pattern": "nur",
+    "word_count": 62
+  },
+  {
+    "pattern": "uru",
+    "word_count": 37
+  },
+  {
+    "pattern": "lit",
+    "word_count": 776
+  },
+  {
+    "pattern": "rsa",
+    "word_count": 85
+  },
+  {
+    "pattern": "swe",
+    "word_count": 97
+  },
+  {
+    "pattern": "ott",
+    "word_count": 223
+  },
+  {
+    "pattern": "tta",
+    "word_count": 160
+  },
+  {
+    "pattern": "cic",
+    "word_count": 35
+  },
+  {
+    "pattern": "urm",
+    "word_count": 33
+  },
+  {
+    "pattern": "dne",
+    "word_count": 95
+  },
+  {
+    "pattern": "ura",
+    "word_count": 356
+  },
+  {
+    "pattern": "ask",
+    "word_count": 67
+  },
+  {
+    "pattern": "mis",
+    "word_count": 552
+  },
+  {
+    "pattern": "aza",
+    "word_count": 51
+  },
+  {
+    "pattern": "lpi",
+    "word_count": 36
+  },
+  {
+    "pattern": "tou",
+    "word_count": 159
+  },
+  {
+    "pattern": "iqu",
+    "word_count": 106
+  },
+  {
+    "pattern": "gyn",
+    "word_count": 34
+  },
+  {
+    "pattern": "hob",
+    "word_count": 220
+  },
+  {
+    "pattern": "mpo",
+    "word_count": 161
+  },
+  {
+    "pattern": "unc",
+    "word_count": 380
+  },
+  {
+    "pattern": "dou",
+    "word_count": 117
+  },
+  {
+    "pattern": "mbr",
+    "word_count": 111
+  },
+  {
+    "pattern": "upi",
+    "word_count": 44
+  },
+  {
+    "pattern": "tiv",
+    "word_count": 737
+  },
+  {
+    "pattern": "hyp",
+    "word_count": 203
+  },
+  {
+    "pattern": "tul",
+    "word_count": 76
+  },
+  {
+    "pattern": "mps",
+    "word_count": 44
+  },
+  {
+    "pattern": "ham",
+    "word_count": 200
+  },
+  {
+    "pattern": "shy",
+    "word_count": 34
+  },
+  {
+    "pattern": "ixe",
+    "word_count": 31
+  },
+  {
+    "pattern": "rho",
+    "word_count": 58
+  },
+  {
+    "pattern": "rof",
+    "word_count": 90
+  },
+  {
+    "pattern": "ida",
+    "word_count": 187
+  },
+  {
+    "pattern": "nvi",
+    "word_count": 79
+  },
+  {
+    "pattern": "dad",
+    "word_count": 32
+  },
+  {
+    "pattern": "dep",
+    "word_count": 157
+  },
+  {
+    "pattern": "pus",
+    "word_count": 78
+  },
+  {
+    "pattern": "eur",
+    "word_count": 175
+  },
+  {
+    "pattern": "bro",
+    "word_count": 275
+  },
+  {
+    "pattern": "ogl",
+    "word_count": 43
+  },
+  {
+    "pattern": "mot",
+    "word_count": 173
+  },
+  {
+    "pattern": "lge",
+    "word_count": 45
+  },
+  {
+    "pattern": "flo",
+    "word_count": 187
+  },
+  {
+    "pattern": "rev",
+    "word_count": 224
+  },
+  {
+    "pattern": "asc",
+    "word_count": 154
+  },
+  {
+    "pattern": "mal",
+    "word_count": 336
+  },
+  {
+    "pattern": "rel",
+    "word_count": 301
+  },
+  {
+    "pattern": "lac",
+    "word_count": 336
+  },
+  {
+    "pattern": "iti",
+    "word_count": 821
+  },
+  {
+    "pattern": "diz",
+    "word_count": 38
+  },
+  {
+    "pattern": "wal",
+    "word_count": 119
+  },
+  {
+    "pattern": "eoc",
+    "word_count": 38
+  },
+  {
+    "pattern": "ipo",
+    "word_count": 83
+  },
+  {
+    "pattern": "ere",
+    "word_count": 876
+  },
+  {
+    "pattern": "hev",
+    "word_count": 30
+  },
+  {
+    "pattern": "ram",
+    "word_count": 406
+  },
+  {
+    "pattern": "dev",
+    "word_count": 110
+  },
+  {
+    "pattern": "ela",
+    "word_count": 294
+  },
+  {
+    "pattern": "ads",
+    "word_count": 77
+  },
+  {
+    "pattern": "erf",
+    "word_count": 151
+  },
+  {
+    "pattern": "mbu",
+    "word_count": 73
+  },
+  {
+    "pattern": "obi",
+    "word_count": 281
+  },
+  {
+    "pattern": "gis",
+    "word_count": 199
+  },
+  {
+    "pattern": "nki",
+    "word_count": 75
+  },
+  {
+    "pattern": "gel",
+    "word_count": 119
+  },
+  {
+    "pattern": "rge",
+    "word_count": 245
+  },
+  {
+    "pattern": "ick",
+    "word_count": 431
+  },
+  {
+    "pattern": "ilo",
+    "word_count": 155
+  },
+  {
+    "pattern": "arn",
+    "word_count": 166
+  },
+  {
+    "pattern": "obs",
+    "word_count": 93
+  },
+  {
+    "pattern": "nit",
+    "word_count": 401
+  },
+  {
+    "pattern": "awe",
+    "word_count": 40
+  },
+  {
+    "pattern": "mag",
+    "word_count": 171
+  },
+  {
+    "pattern": "was",
+    "word_count": 80
+  },
+  {
+    "pattern": "wei",
+    "word_count": 58
+  },
+  {
+    "pattern": "rga",
+    "word_count": 124
+  },
+  {
+    "pattern": "bor",
+    "word_count": 219
+  },
+  {
+    "pattern": "abi",
+    "word_count": 288
+  },
+  {
+    "pattern": "bug",
+    "word_count": 32
+  },
+  {
+    "pattern": "sun",
+    "word_count": 85
+  },
+  {
+    "pattern": "tho",
+    "word_count": 328
+  },
+  {
+    "pattern": "blo",
+    "word_count": 182
+  },
+  {
+    "pattern": "tap",
+    "word_count": 96
+  },
+  {
+    "pattern": "nia",
+    "word_count": 386
+  },
+  {
+    "pattern": "ngr",
+    "word_count": 96
+  },
+  {
+    "pattern": "obl",
+    "word_count": 78
+  },
+  {
+    "pattern": "zoo",
+    "word_count": 53
+  },
+  {
+    "pattern": "oxi",
+    "word_count": 94
+  },
+  {
+    "pattern": "ipu",
+    "word_count": 31
+  },
+  {
+    "pattern": "ury",
+    "word_count": 44
+  },
+  {
+    "pattern": "alc",
+    "word_count": 115
+  },
+  {
+    "pattern": "bud",
+    "word_count": 30
+  },
+  {
+    "pattern": "lyt",
+    "word_count": 50
+  },
+  {
+    "pattern": "nea",
+    "word_count": 137
+  },
+  {
+    "pattern": "aps",
+    "word_count": 106
+  },
+  {
+    "pattern": "diu",
+    "word_count": 59
+  },
+  {
+    "pattern": "rtl",
+    "word_count": 59
+  },
+  {
+    "pattern": "omi",
+    "word_count": 349
+  },
+  {
+    "pattern": "via",
+    "word_count": 129
+  },
+  {
+    "pattern": "rwo",
+    "word_count": 34
+  },
+  {
+    "pattern": "ska",
+    "word_count": 44
+  },
+  {
+    "pattern": "fra",
+    "word_count": 238
+  },
+  {
+    "pattern": "rts",
+    "word_count": 75
+  },
+  {
+    "pattern": "fre",
+    "word_count": 167
+  },
+  {
+    "pattern": "sso",
+    "word_count": 162
+  },
+  {
+    "pattern": "ior",
+    "word_count": 92
+  },
+  {
+    "pattern": "ven",
+    "word_count": 473
+  },
+  {
+    "pattern": "pat",
+    "word_count": 397
+  },
+  {
+    "pattern": "thm",
+    "word_count": 34
+  },
+  {
+    "pattern": "lmi",
+    "word_count": 42
+  },
+  {
+    "pattern": "tau",
+    "word_count": 53
+  },
+  {
+    "pattern": "ssa",
+    "word_count": 212
+  },
+  {
+    "pattern": "orn",
+    "word_count": 271
+  },
+  {
+    "pattern": "rim",
+    "word_count": 219
+  },
+  {
+    "pattern": "ana",
+    "word_count": 478
+  },
+  {
+    "pattern": "psy",
+    "word_count": 101
+  },
+  {
+    "pattern": "eto",
+    "word_count": 169
+  },
+  {
+    "pattern": "tid",
+    "word_count": 85
+  },
+  {
+    "pattern": "pom",
+    "word_count": 59
+  },
+  {
+    "pattern": "cir",
+    "word_count": 91
+  },
+  {
+    "pattern": "xic",
+    "word_count": 44
+  },
+  {
+    "pattern": "kal",
+    "word_count": 52
+  },
+  {
+    "pattern": "bse",
+    "word_count": 54
+  },
+  {
+    "pattern": "ool",
+    "word_count": 156
+  },
+  {
+    "pattern": "rpa",
+    "word_count": 42
+  },
+  {
+    "pattern": "nza",
+    "word_count": 30
+  },
+  {
+    "pattern": "nio",
+    "word_count": 107
+  },
+  {
+    "pattern": "haz",
+    "word_count": 31
+  },
+  {
+    "pattern": "nak",
+    "word_count": 30
+  },
+  {
+    "pattern": "mmo",
+    "word_count": 109
+  },
+  {
+    "pattern": "lux",
+    "word_count": 36
+  },
+  {
+    "pattern": "ius",
+    "word_count": 83
+  },
+  {
+    "pattern": "him",
+    "word_count": 79
+  },
+  {
+    "pattern": "ggl",
+    "word_count": 81
+  },
+  {
+    "pattern": "tus",
+    "word_count": 150
+  },
+  {
+    "pattern": "sco",
+    "word_count": 363
+  },
+  {
+    "pattern": "beh",
+    "word_count": 36
+  },
+  {
+    "pattern": "iop",
+    "word_count": 57
+  },
+  {
+    "pattern": "zer",
+    "word_count": 102
+  },
+  {
+    "pattern": "unn",
+    "word_count": 104
+  },
+  {
+    "pattern": "miz",
+    "word_count": 44
+  },
+  {
+    "pattern": "dai",
+    "word_count": 55
+  },
+  {
+    "pattern": "ntu",
+    "word_count": 118
+  },
+  {
+    "pattern": "cce",
+    "word_count": 95
+  },
+  {
+    "pattern": "aum",
+    "word_count": 32
+  },
+  {
+    "pattern": "ete",
+    "word_count": 499
+  },
+  {
+    "pattern": "spl",
+    "word_count": 97
+  },
+  {
+    "pattern": "ogi",
+    "word_count": 285
+  },
+  {
+    "pattern": "gie",
+    "word_count": 74
+  },
+  {
+    "pattern": "wic",
+    "word_count": 35
+  },
+  {
+    "pattern": "sac",
+    "word_count": 98
+  },
+  {
+    "pattern": "isf",
+    "word_count": 38
+  },
+  {
+    "pattern": "nre",
+    "word_count": 46
+  },
+  {
+    "pattern": "mne",
+    "word_count": 40
+  },
+  {
+    "pattern": "ala",
+    "word_count": 404
+  },
+  {
+    "pattern": "heb",
+    "word_count": 35
+  },
+  {
+    "pattern": "irl",
+    "word_count": 70
+  },
+  {
+    "pattern": "dri",
+    "word_count": 176
+  },
+  {
+    "pattern": "ifu",
+    "word_count": 31
+  },
+  {
+    "pattern": "rgo",
+    "word_count": 63
+  },
+  {
+    "pattern": "apr",
+    "word_count": 57
+  },
+  {
+    "pattern": "ote",
+    "word_count": 309
+  },
+  {
+    "pattern": "rak",
+    "word_count": 55
+  },
+  {
+    "pattern": "ang",
+    "word_count": 592
+  },
+  {
+    "pattern": "clu",
+    "word_count": 119
+  },
+  {
+    "pattern": "efi",
+    "word_count": 122
+  },
+  {
+    "pattern": "tly",
+    "word_count": 237
+  },
+  {
+    "pattern": "xed",
+    "word_count": 38
+  },
+  {
+    "pattern": "woo",
+    "word_count": 137
+  },
+  {
+    "pattern": "mee",
+    "word_count": 37
+  },
+  {
+    "pattern": "kno",
+    "word_count": 87
+  },
+  {
+    "pattern": "gen",
+    "word_count": 570
+  },
+  {
+    "pattern": "rno",
+    "word_count": 50
+  },
+  {
+    "pattern": "spi",
+    "word_count": 307
+  },
+  {
+    "pattern": "pap",
+    "word_count": 74
+  },
+  {
+    "pattern": "seu",
+    "word_count": 46
+  },
+  {
+    "pattern": "oug",
+    "word_count": 158
+  },
+  {
+    "pattern": "nto",
+    "word_count": 233
+  },
+  {
+    "pattern": "uve",
+    "word_count": 38
+  },
+  {
+    "pattern": "ptu",
+    "word_count": 52
+  },
+  {
+    "pattern": "mus",
+    "word_count": 172
+  },
+  {
+    "pattern": "ryp",
+    "word_count": 39
+  },
+  {
+    "pattern": "ves",
+    "word_count": 233
+  },
+  {
+    "pattern": "yma",
+    "word_count": 53
+  },
+  {
+    "pattern": "fab",
+    "word_count": 37
+  },
+  {
+    "pattern": "utu",
+    "word_count": 46
+  },
+  {
+    "pattern": "cre",
+    "word_count": 375
+  },
+  {
+    "pattern": "ose",
+    "word_count": 406
+  },
+  {
+    "pattern": "isi",
+    "word_count": 273
+  },
+  {
+    "pattern": "ont",
+    "word_count": 503
+  },
+  {
+    "pattern": "san",
+    "word_count": 270
+  },
+  {
+    "pattern": "ppi",
+    "word_count": 141
+  },
+  {
+    "pattern": "vai",
+    "word_count": 38
+  },
+  {
+    "pattern": "pir",
+    "word_count": 135
+  },
+  {
+    "pattern": "hiv",
+    "word_count": 35
+  },
+  {
+    "pattern": "lou",
+    "word_count": 246
+  },
+  {
+    "pattern": "owa",
+    "word_count": 42
+  },
+  {
+    "pattern": "ema",
+    "word_count": 312
+  },
+  {
+    "pattern": "eda",
+    "word_count": 114
+  },
+  {
+    "pattern": "ble",
+    "word_count": 975
+  },
+  {
+    "pattern": "plo",
+    "word_count": 152
+  },
+  {
+    "pattern": "epr",
+    "word_count": 124
+  },
+  {
+    "pattern": "sey",
+    "word_count": 38
+  },
+  {
+    "pattern": "neo",
+    "word_count": 103
+  },
+  {
+    "pattern": "dur",
+    "word_count": 79
+  },
+  {
+    "pattern": "ado",
+    "word_count": 179
+  },
+  {
+    "pattern": "eth",
+    "word_count": 237
+  },
+  {
+    "pattern": "hip",
+    "word_count": 216
+  },
+  {
+    "pattern": "nnu",
+    "word_count": 57
+  },
+  {
+    "pattern": "eav",
+    "word_count": 90
+  },
+  {
+    "pattern": "duc",
+    "word_count": 210
+  },
+  {
+    "pattern": "lea",
+    "word_count": 378
+  },
+  {
+    "pattern": "var",
+    "word_count": 130
+  },
+  {
+    "pattern": "rmi",
+    "word_count": 223
+  },
+  {
+    "pattern": "mar",
+    "word_count": 496
+  },
+  {
+    "pattern": "nau",
+    "word_count": 62
+  },
+  {
+    "pattern": "afe",
+    "word_count": 57
+  },
+  {
+    "pattern": "ned",
+    "word_count": 420
+  },
+  {
+    "pattern": "riu",
+    "word_count": 97
+  },
+  {
+    "pattern": "lax",
+    "word_count": 34
+  },
+  {
+    "pattern": "gea",
+    "word_count": 64
+  },
+  {
+    "pattern": "ibu",
+    "word_count": 76
+  },
+  {
+    "pattern": "hen",
+    "word_count": 255
+  },
+  {
+    "pattern": "loo",
+    "word_count": 198
+  },
+  {
+    "pattern": "cau",
+    "word_count": 82
+  },
+  {
+    "pattern": "haw",
+    "word_count": 66
+  },
+  {
+    "pattern": "toe",
+    "word_count": 37
+  },
+  {
+    "pattern": "tty",
+    "word_count": 76
+  },
+  {
+    "pattern": "sig",
+    "word_count": 148
+  },
+  {
+    "pattern": "yte",
+    "word_count": 71
+  },
+  {
+    "pattern": "eon",
+    "word_count": 111
+  },
+  {
+    "pattern": "erd",
+    "word_count": 107
+  },
+  {
+    "pattern": "mpa",
+    "word_count": 190
+  },
+  {
+    "pattern": "sum",
+    "word_count": 127
+  },
+  {
+    "pattern": "uts",
+    "word_count": 86
+  },
+  {
+    "pattern": "ymi",
+    "word_count": 31
+  },
+  {
+    "pattern": "ady",
+    "word_count": 45
+  },
+  {
+    "pattern": "mea",
+    "word_count": 134
+  },
+  {
+    "pattern": "oke",
+    "word_count": 185
+  },
+  {
+    "pattern": "nsa",
+    "word_count": 99
+  },
+  {
+    "pattern": "cof",
+    "word_count": 33
+  },
+  {
+    "pattern": "omn",
+    "word_count": 44
+  },
+  {
+    "pattern": "apl",
+    "word_count": 53
+  },
+  {
+    "pattern": "dwa",
+    "word_count": 37
+  },
+  {
+    "pattern": "art",
+    "word_count": 653
+  },
+  {
+    "pattern": "ion",
+    "word_count": 967
+  },
+  {
+    "pattern": "iac",
+    "word_count": 83
+  },
+  {
+    "pattern": "odg",
+    "word_count": 40
+  },
+  {
+    "pattern": "icl",
+    "word_count": 78
+  },
+  {
+    "pattern": "ook",
+    "word_count": 206
+  },
+  {
+    "pattern": "sai",
+    "word_count": 89
+  },
+  {
+    "pattern": "nic",
+    "word_count": 566
+  },
+  {
+    "pattern": "rqu",
+    "word_count": 35
+  },
+  {
+    "pattern": "isu",
+    "word_count": 36
+  },
+  {
+    "pattern": "sma",
+    "word_count": 195
+  },
+  {
+    "pattern": "pie",
+    "word_count": 166
+  },
+  {
+    "pattern": "omp",
+    "word_count": 382
+  },
+  {
+    "pattern": "dan",
+    "word_count": 211
+  },
+  {
+    "pattern": "val",
+    "word_count": 224
+  },
+  {
+    "pattern": "eop",
+    "word_count": 71
+  },
+  {
+    "pattern": "uck",
+    "word_count": 226
+  },
+  {
+    "pattern": "fie",
+    "word_count": 182
+  },
+  {
+    "pattern": "nle",
+    "word_count": 34
+  },
+  {
+    "pattern": "xia",
+    "word_count": 34
+  },
+  {
+    "pattern": "ctu",
+    "word_count": 180
+  },
+  {
+    "pattern": "ldi",
+    "word_count": 58
+  },
+  {
+    "pattern": "ase",
+    "word_count": 286
+  },
+  {
+    "pattern": "yme",
+    "word_count": 65
+  },
+  {
+    "pattern": "shl",
+    "word_count": 32
+  },
+  {
+    "pattern": "oth",
+    "word_count": 301
+  },
+  {
+    "pattern": "epl",
+    "word_count": 79
+  },
+  {
+    "pattern": "buc",
+    "word_count": 75
+  },
+  {
+    "pattern": "dyn",
+    "word_count": 49
+  },
+  {
+    "pattern": "hig",
+    "word_count": 82
+  },
+  {
+    "pattern": "lca",
+    "word_count": 40
+  },
+  {
+    "pattern": "kes",
+    "word_count": 75
+  },
+  {
+    "pattern": "ers",
+    "word_count": 763
+  },
+  {
+    "pattern": "ipe",
+    "word_count": 130
+  },
+  {
+    "pattern": "pli",
+    "word_count": 246
+  },
+  {
+    "pattern": "icu",
+    "word_count": 203
+  },
+  {
+    "pattern": "rif",
+    "word_count": 185
+  },
+  {
+    "pattern": "gol",
+    "word_count": 74
+  },
+  {
+    "pattern": "joi",
+    "word_count": 36
+  },
+  {
+    "pattern": "mme",
+    "word_count": 252
+  },
+  {
+    "pattern": "mem",
+    "word_count": 61
+  },
+  {
+    "pattern": "atl",
+    "word_count": 39
+  },
+  {
+    "pattern": "idi",
+    "word_count": 266
+  },
+  {
+    "pattern": "ann",
+    "word_count": 336
+  },
+  {
+    "pattern": "oos",
+    "word_count": 87
+  },
+  {
+    "pattern": "elp",
+    "word_count": 48
+  },
+  {
+    "pattern": "kie",
+    "word_count": 82
+  },
+  {
+    "pattern": "erw",
+    "word_count": 83
+  },
+  {
+    "pattern": "dol",
+    "word_count": 119
+  },
+  {
+    "pattern": "lgi",
+    "word_count": 44
+  },
+  {
+    "pattern": "mec",
+    "word_count": 33
+  },
+  {
+    "pattern": "uph",
+    "word_count": 35
+  },
+  {
+    "pattern": "ris",
+    "word_count": 658
+  },
+  {
+    "pattern": "luc",
+    "word_count": 120
+  },
+  {
+    "pattern": "gua",
+    "word_count": 100
+  },
+  {
+    "pattern": "ink",
+    "word_count": 208
+  },
+  {
+    "pattern": "gem",
+    "word_count": 61
+  },
+  {
+    "pattern": "ilm",
+    "word_count": 32
+  },
+  {
+    "pattern": "hop",
+    "word_count": 115
+  },
+  {
+    "pattern": "ora",
+    "word_count": 466
+  },
+  {
+    "pattern": "gia",
+    "word_count": 106
+  },
+  {
+    "pattern": "tam",
+    "word_count": 144
+  },
+  {
+    "pattern": "odo",
+    "word_count": 127
+  },
+  {
+    "pattern": "rab",
+    "word_count": 256
+  },
+  {
+    "pattern": "iba",
+    "word_count": 55
+  },
+  {
+    "pattern": "fam",
+    "word_count": 38
+  },
+  {
+    "pattern": "lut",
+    "word_count": 187
+  },
+  {
+    "pattern": "rty",
+    "word_count": 51
+  },
+  {
+    "pattern": "lpa",
+    "word_count": 30
+  },
+  {
+    "pattern": "tai",
+    "word_count": 262
+  },
+  {
+    "pattern": "anz",
+    "word_count": 30
+  },
+  {
+    "pattern": "sni",
+    "word_count": 54
+  },
+  {
+    "pattern": "rth",
+    "word_count": 244
+  },
+  {
+    "pattern": "alb",
+    "word_count": 58
+  },
+  {
+    "pattern": "gun",
+    "word_count": 62
+  },
+  {
+    "pattern": "tax",
+    "word_count": 49
+  },
+  {
+    "pattern": "gor",
+    "word_count": 132
+  },
+  {
+    "pattern": "nct",
+    "word_count": 130
+  },
+  {
+    "pattern": "gar",
+    "word_count": 231
+  },
+  {
+    "pattern": "ocr",
+    "word_count": 118
+  },
+  {
+    "pattern": "uic",
+    "word_count": 39
+  },
+  {
+    "pattern": "pav",
+    "word_count": 31
+  },
+  {
+    "pattern": "ydr",
+    "word_count": 99
+  },
+  {
+    "pattern": "voc",
+    "word_count": 72
+  },
+  {
+    "pattern": "yth",
+    "word_count": 86
+  },
+  {
+    "pattern": "pon",
+    "word_count": 201
+  },
+  {
+    "pattern": "ppl",
+    "word_count": 118
+  },
+  {
+    "pattern": "hoi",
+    "word_count": 36
+  },
+  {
+    "pattern": "uce",
+    "word_count": 96
+  },
+  {
+    "pattern": "ens",
+    "word_count": 506
+  },
+  {
+    "pattern": "tup",
+    "word_count": 60
+  },
+  {
+    "pattern": "epu",
+    "word_count": 52
+  },
+  {
+    "pattern": "nef",
+    "word_count": 43
+  },
+  {
+    "pattern": "iat",
+    "word_count": 414
+  },
+  {
+    "pattern": "bla",
+    "word_count": 250
+  },
+  {
+    "pattern": "zzl",
+    "word_count": 54
+  },
+  {
+    "pattern": "urt",
+    "word_count": 123
+  },
+  {
+    "pattern": "oft",
+    "word_count": 46
+  },
+  {
+    "pattern": "tip",
+    "word_count": 100
+  },
+  {
+    "pattern": "iag",
+    "word_count": 45
+  },
+  {
+    "pattern": "oly",
+    "word_count": 158
+  },
+  {
+    "pattern": "ryo",
+    "word_count": 45
+  },
+  {
+    "pattern": "vor",
+    "word_count": 85
+  },
+  {
+    "pattern": "efu",
+    "word_count": 116
+  },
+  {
+    "pattern": "usn",
+    "word_count": 80
+  },
+  {
+    "pattern": "rva",
+    "word_count": 81
+  },
+  {
+    "pattern": "eig",
+    "word_count": 132
+  },
+  {
+    "pattern": "tri",
+    "word_count": 885
+  },
+  {
+    "pattern": "nos",
+    "word_count": 167
+  },
+  {
+    "pattern": "lva",
+    "word_count": 62
+  },
+  {
+    "pattern": "ebi",
+    "word_count": 48
+  },
+  {
+    "pattern": "ceo",
+    "word_count": 50
+  },
+  {
+    "pattern": "cci",
+    "word_count": 74
+  },
+  {
+    "pattern": "hym",
+    "word_count": 45
+  },
+  {
+    "pattern": "ocu",
+    "word_count": 104
+  },
+  {
+    "pattern": "nfl",
+    "word_count": 78
+  },
+  {
+    "pattern": "elm",
+    "word_count": 39
+  },
+  {
+    "pattern": "aus",
+    "word_count": 136
+  },
+  {
+    "pattern": "urr",
+    "word_count": 167
+  },
+  {
+    "pattern": "alo",
+    "word_count": 254
+  },
+  {
+    "pattern": "his",
+    "word_count": 218
+  },
+  {
+    "pattern": "tem",
+    "word_count": 205
+  },
+  {
+    "pattern": "rca",
+    "word_count": 98
+  },
+  {
+    "pattern": "buf",
+    "word_count": 30
+  },
+  {
+    "pattern": "hib",
+    "word_count": 63
+  },
+  {
+    "pattern": "shr",
+    "word_count": 80
+  },
+  {
+    "pattern": "mbl",
+    "word_count": 138
+  },
+  {
+    "pattern": "new",
+    "word_count": 70
+  },
+  {
+    "pattern": "pru",
+    "word_count": 48
+  },
+  {
+    "pattern": "hin",
+    "word_count": 492
+  },
+  {
+    "pattern": "cov",
+    "word_count": 62
+  },
+  {
+    "pattern": "swo",
+    "word_count": 46
+  },
+  {
+    "pattern": "dei",
+    "word_count": 39
+  },
+  {
+    "pattern": "sib",
+    "word_count": 108
+  },
+  {
+    "pattern": "reh",
+    "word_count": 74
+  },
+  {
+    "pattern": "esa",
+    "word_count": 70
+  },
+  {
+    "pattern": "vat",
+    "word_count": 159
+  },
+  {
+    "pattern": "utr",
+    "word_count": 72
+  },
+  {
+    "pattern": "lal",
+    "word_count": 30
+  },
+  {
+    "pattern": "ift",
+    "word_count": 95
+  },
+  {
+    "pattern": "aha",
+    "word_count": 49
+  },
+  {
+    "pattern": "arl",
+    "word_count": 167
+  },
+  {
+    "pattern": "ebe",
+    "word_count": 91
+  },
+  {
+    "pattern": "ile",
+    "word_count": 457
+  },
+  {
+    "pattern": "syc",
+    "word_count": 86
+  },
+  {
+    "pattern": "nfi",
+    "word_count": 98
+  },
+  {
+    "pattern": "bje",
+    "word_count": 31
+  },
+  {
+    "pattern": "usp",
+    "word_count": 43
+  },
+  {
+    "pattern": "sar",
+    "word_count": 183
+  },
+  {
+    "pattern": "jet",
+    "word_count": 32
+  },
+  {
+    "pattern": "sne",
+    "word_count": 150
+  },
+  {
+    "pattern": "saw",
+    "word_count": 33
+  },
+  {
+    "pattern": "col",
+    "word_count": 422
+  },
+  {
+    "pattern": "reg",
+    "word_count": 202
+  },
+  {
+    "pattern": "eds",
+    "word_count": 41
+  },
+  {
+    "pattern": "ndy",
+    "word_count": 56
+  },
+  {
+    "pattern": "pok",
+    "word_count": 35
+  },
+  {
+    "pattern": "lik",
+    "word_count": 73
+  },
+  {
+    "pattern": "ger",
+    "word_count": 529
+  },
+  {
+    "pattern": "rks",
+    "word_count": 43
+  },
+  {
+    "pattern": "ogu",
+    "word_count": 64
+  },
+  {
+    "pattern": "urv",
+    "word_count": 52
+  },
+  {
+    "pattern": "zin",
+    "word_count": 108
+  },
+  {
+    "pattern": "olo",
+    "word_count": 750
+  },
+  {
+    "pattern": "nfo",
+    "word_count": 96
+  },
+  {
+    "pattern": "hlo",
+    "word_count": 50
+  },
+  {
+    "pattern": "eft",
+    "word_count": 36
+  },
+  {
+    "pattern": "vas",
+    "word_count": 79
+  },
+  {
+    "pattern": "ard",
+    "word_count": 722
+  },
+  {
+    "pattern": "kir",
+    "word_count": 33
+  },
+  {
+    "pattern": "geo",
+    "word_count": 127
+  },
+  {
+    "pattern": "kat",
+    "word_count": 57
+  },
+  {
+    "pattern": "ins",
+    "word_count": 430
+  },
+  {
+    "pattern": "glo",
+    "word_count": 151
+  },
+  {
+    "pattern": "lys",
+    "word_count": 79
+  },
+  {
+    "pattern": "ams",
+    "word_count": 55
+  },
+  {
+    "pattern": "mid",
+    "word_count": 130
+  },
+  {
+    "pattern": "sym",
+    "word_count": 63
+  },
+  {
+    "pattern": "oat",
+    "word_count": 141
+  },
+  {
+    "pattern": "ubt",
+    "word_count": 39
+  },
+  {
+    "pattern": "poc",
+    "word_count": 76
+  },
+  {
+    "pattern": "bob",
+    "word_count": 31
+  },
+  {
+    "pattern": "ame",
+    "word_count": 421
+  },
+  {
+    "pattern": "gul",
+    "word_count": 108
+  },
+  {
+    "pattern": "uln",
+    "word_count": 42
+  },
+  {
+    "pattern": "dmi",
+    "word_count": 54
+  },
+  {
+    "pattern": "shm",
+    "word_count": 58
+  },
+  {
+    "pattern": "opl",
+    "word_count": 91
+  },
+  {
+    "pattern": "riv",
+    "word_count": 159
+  },
+  {
+    "pattern": "chi",
+    "word_count": 684
+  },
+  {
+    "pattern": "alk",
+    "word_count": 105
+  },
+  {
+    "pattern": "iza",
+    "word_count": 187
+  },
+  {
+    "pattern": "afi",
+    "word_count": 34
+  },
+  {
+    "pattern": "kin",
+    "word_count": 546
+  },
+  {
+    "pattern": "tor",
+    "word_count": 966
+  },
+  {
+    "pattern": "hra",
+    "word_count": 90
+  },
+  {
+    "pattern": "acc",
+    "word_count": 295
+  },
+  {
+    "pattern": "vol",
+    "word_count": 161
+  },
+  {
+    "pattern": "sia",
+    "word_count": 235
+  },
+  {
+    "pattern": "lei",
+    "word_count": 86
+  },
+  {
+    "pattern": "liu",
+    "word_count": 39
+  },
+  {
+    "pattern": "lmo",
+    "word_count": 34
+  },
+  {
+    "pattern": "loa",
+    "word_count": 88
+  },
+  {
+    "pattern": "ree",
+    "word_count": 395
+  },
+  {
+    "pattern": "rib",
+    "word_count": 180
+  },
+  {
+    "pattern": "atc",
+    "word_count": 153
+  },
+  {
+    "pattern": "irs",
+    "word_count": 56
+  },
+  {
+    "pattern": "net",
+    "word_count": 263
+  },
+  {
+    "pattern": "off",
+    "word_count": 218
+  },
+  {
+    "pattern": "dab",
+    "word_count": 68
+  },
+  {
+    "pattern": "irr",
+    "word_count": 115
+  },
+  {
+    "pattern": "gue",
+    "word_count": 172
+  },
+  {
+    "pattern": "doc",
+    "word_count": 97
+  },
+  {
+    "pattern": "ght",
+    "word_count": 492
+  },
+  {
+    "pattern": "pro",
+    "word_count": 949
+  },
+  {
+    "pattern": "iki",
+    "word_count": 36
+  },
+  {
+    "pattern": "suf",
+    "word_count": 48
+  },
+  {
+    "pattern": "oal",
+    "word_count": 32
+  },
+  {
+    "pattern": "lbe",
+    "word_count": 37
+  },
+  {
+    "pattern": "xis",
+    "word_count": 65
+  },
+  {
+    "pattern": "pet",
+    "word_count": 207
+  },
+  {
+    "pattern": "scl",
+    "word_count": 41
+  },
+  {
+    "pattern": "een",
+    "word_count": 207
+  },
+  {
+    "pattern": "uil",
+    "word_count": 101
+  },
+  {
+    "pattern": "foo",
+    "word_count": 101
+  },
+  {
+    "pattern": "oun",
+    "word_count": 453
+  },
+  {
+    "pattern": "rec",
+    "word_count": 518
+  },
+  {
+    "pattern": "fil",
+    "word_count": 131
+  },
+  {
+    "pattern": "los",
+    "word_count": 198
+  },
+  {
+    "pattern": "dot",
+    "word_count": 60
+  },
+  {
+    "pattern": "efr",
+    "word_count": 47
+  },
+  {
+    "pattern": "agn",
+    "word_count": 104
+  },
+  {
+    "pattern": "pol",
+    "word_count": 348
+  },
+  {
+    "pattern": "nse",
+    "word_count": 246
+  },
+  {
+    "pattern": "cea",
+    "word_count": 93
+  },
+  {
+    "pattern": "ows",
+    "word_count": 91
+  },
+  {
+    "pattern": "ica",
+    "word_count": 966
+  },
+  {
+    "pattern": "uco",
+    "word_count": 32
+  },
+  {
+    "pattern": "ifo",
+    "word_count": 78
+  },
+  {
+    "pattern": "owd",
+    "word_count": 43
+  },
+  {
+    "pattern": "pta",
+    "word_count": 65
+  },
+  {
+    "pattern": "hyl",
+    "word_count": 57
+  },
+  {
+    "pattern": "aze",
+    "word_count": 92
+  },
+  {
+    "pattern": "rex",
+    "word_count": 33
+  },
+  {
+    "pattern": "cky",
+    "word_count": 52
+  },
+  {
+    "pattern": "fur",
+    "word_count": 83
+  },
+  {
+    "pattern": "ize",
+    "word_count": 564
+  },
+  {
+    "pattern": "oli",
+    "word_count": 517
+  },
+  {
+    "pattern": "gic",
+    "word_count": 155
+  },
+  {
+    "pattern": "des",
+    "word_count": 420
+  },
+  {
+    "pattern": "kel",
+    "word_count": 70
+  },
+  {
+    "pattern": "lec",
+    "word_count": 280
+  },
+  {
+    "pattern": "sal",
+    "word_count": 288
+  },
+  {
+    "pattern": "lma",
+    "word_count": 57
+  },
+  {
+    "pattern": "thl",
+    "word_count": 43
+  },
+  {
+    "pattern": "rds",
+    "word_count": 81
+  },
+  {
+    "pattern": "eet",
+    "word_count": 137
+  },
+  {
+    "pattern": "lum",
+    "word_count": 247
+  },
+  {
+    "pattern": "gha",
+    "word_count": 41
+  },
+  {
+    "pattern": "uma",
+    "word_count": 113
+  },
+  {
+    "pattern": "aff",
+    "word_count": 240
+  },
+  {
+    "pattern": "bil",
+    "word_count": 327
+  },
+  {
+    "pattern": "vac",
+    "word_count": 51
+  },
+  {
+    "pattern": "osa",
+    "word_count": 105
+  },
+  {
+    "pattern": "fei",
+    "word_count": 35
+  },
+  {
+    "pattern": "nsp",
+    "word_count": 90
+  },
+  {
+    "pattern": "imm",
+    "word_count": 159
+  },
+  {
+    "pattern": "dst",
+    "word_count": 50
+  },
+  {
+    "pattern": "hal",
+    "word_count": 374
+  },
+  {
+    "pattern": "att",
+    "word_count": 411
+  },
+  {
+    "pattern": "cco",
+    "word_count": 101
+  },
+  {
+    "pattern": "edr",
+    "word_count": 51
+  },
+  {
+    "pattern": "gno",
+    "word_count": 92
+  },
+  {
+    "pattern": "uke",
+    "word_count": 33
+  },
+  {
+    "pattern": "pou",
+    "word_count": 86
+  },
+  {
+    "pattern": "rpr",
+    "word_count": 35
+  },
+  {
+    "pattern": "isb",
+    "word_count": 33
+  },
+  {
+    "pattern": "fav",
+    "word_count": 31
+  },
+  {
+    "pattern": "ums",
+    "word_count": 42
+  },
+  {
+    "pattern": "pis",
+    "word_count": 128
+  },
+  {
+    "pattern": "mix",
+    "word_count": 30
+  },
+  {
+    "pattern": "oya",
+    "word_count": 54
+  },
+  {
+    "pattern": "too",
+    "word_count": 103
+  },
+  {
+    "pattern": "abu",
+    "word_count": 79
+  },
+  {
+    "pattern": "wan",
+    "word_count": 90
+  },
+  {
+    "pattern": "udi",
+    "word_count": 162
+  },
+  {
+    "pattern": "any",
+    "word_count": 61
+  },
+  {
+    "pattern": "noc",
+    "word_count": 123
+  },
+  {
+    "pattern": "oba",
+    "word_count": 88
+  },
+  {
+    "pattern": "cub",
+    "word_count": 50
+  },
+  {
+    "pattern": "ice",
+    "word_count": 354
+  },
+  {
+    "pattern": "ppe",
+    "word_count": 333
+  },
+  {
+    "pattern": "aso",
+    "word_count": 97
+  },
+  {
+    "pattern": "kid",
+    "word_count": 34
+  },
+  {
+    "pattern": "ani",
+    "word_count": 624
+  },
+  {
+    "pattern": "lch",
+    "word_count": 49
+  },
+  {
+    "pattern": "nus",
+    "word_count": 85
+  },
+  {
+    "pattern": "soo",
+    "word_count": 36
+  },
+  {
+    "pattern": "rod",
+    "word_count": 165
+  },
+  {
+    "pattern": "uro",
+    "word_count": 132
+  },
+  {
+    "pattern": "get",
+    "word_count": 109
+  },
+  {
+    "pattern": "jug",
+    "word_count": 30
+  },
+  {
+    "pattern": "ssl",
+    "word_count": 53
+  },
+  {
+    "pattern": "swa",
+    "word_count": 108
+  },
+  {
+    "pattern": "ket",
+    "word_count": 152
+  },
+  {
+    "pattern": "eam",
+    "word_count": 136
+  },
+  {
+    "pattern": "abr",
+    "word_count": 90
+  },
+  {
+    "pattern": "enr",
+    "word_count": 37
+  },
+  {
+    "pattern": "hov",
+    "word_count": 31
+  },
+  {
+    "pattern": "mom",
+    "word_count": 36
+  },
+  {
+    "pattern": "oas",
+    "word_count": 44
+  },
+  {
+    "pattern": "ewi",
+    "word_count": 69
+  },
+  {
+    "pattern": "ckb",
+    "word_count": 43
+  },
+  {
+    "pattern": "ood",
+    "word_count": 290
+  },
+  {
+    "pattern": "opo",
+    "word_count": 203
+  },
+  {
+    "pattern": "rob",
+    "word_count": 157
+  },
+  {
+    "pattern": "dle",
+    "word_count": 295
+  },
+  {
+    "pattern": "bid",
+    "word_count": 65
+  },
+  {
+    "pattern": "vit",
+    "word_count": 179
+  },
+  {
+    "pattern": "wai",
+    "word_count": 63
+  },
+  {
+    "pattern": "ugh",
+    "word_count": 214
+  },
+  {
+    "pattern": "all",
+    "word_count": 945
+  },
+  {
+    "pattern": "eor",
+    "word_count": 46
+  },
+  {
+    "pattern": "tex",
+    "word_count": 41
+  },
+  {
+    "pattern": "eis",
+    "word_count": 116
+  },
+  {
+    "pattern": "uba",
+    "word_count": 59
+  },
+  {
+    "pattern": "its",
+    "word_count": 97
+  },
+  {
+    "pattern": "wea",
+    "word_count": 125
+  },
+  {
+    "pattern": "cyt",
+    "word_count": 58
+  },
+  {
+    "pattern": "rfa",
+    "word_count": 34
+  },
+  {
+    "pattern": "amp",
+    "word_count": 291
+  },
+  {
+    "pattern": "mad",
+    "word_count": 84
+  },
+  {
+    "pattern": "apa",
+    "word_count": 118
+  },
+  {
+    "pattern": "gly",
+    "word_count": 140
+  },
+  {
+    "pattern": "tot",
+    "word_count": 83
+  },
+  {
+    "pattern": "ure",
+    "word_count": 581
+  },
+  {
+    "pattern": "ces",
+    "word_count": 281
+  },
+  {
+    "pattern": "nha",
+    "word_count": 52
+  },
+  {
+    "pattern": "neg",
+    "word_count": 82
+  },
+  {
+    "pattern": "syn",
+    "word_count": 148
+  },
+  {
+    "pattern": "hys",
+    "word_count": 90
+  },
+  {
+    "pattern": "xpl",
+    "word_count": 55
+  },
+  {
+    "pattern": "sli",
+    "word_count": 127
+  },
+  {
+    "pattern": "ilu",
+    "word_count": 40
+  },
+  {
+    "pattern": "hod",
+    "word_count": 66
+  },
+  {
+    "pattern": "ato",
+    "word_count": 694
+  },
+  {
+    "pattern": "pow",
+    "word_count": 44
+  },
+  {
+    "pattern": "nen",
+    "word_count": 94
+  },
+  {
+    "pattern": "tan",
+    "word_count": 578
+  },
+  {
+    "pattern": "her",
+    "word_count": 927
+  },
+  {
+    "pattern": "iet",
+    "word_count": 101
+  },
+  {
+    "pattern": "ccu",
+    "word_count": 100
+  },
+  {
+    "pattern": "bly",
+    "word_count": 146
+  },
+  {
+    "pattern": "rki",
+    "word_count": 72
+  },
+  {
+    "pattern": "cra",
+    "word_count": 407
+  },
+  {
+    "pattern": "lag",
+    "word_count": 176
+  },
+  {
+    "pattern": "cho",
+    "word_count": 425
+  },
+  {
+    "pattern": "era",
+    "word_count": 906
+  },
+  {
+    "pattern": "yne",
+    "word_count": 73
+  },
+  {
+    "pattern": "emu",
+    "word_count": 60
+  },
+  {
+    "pattern": "ply",
+    "word_count": 37
+  },
+  {
+    "pattern": "nli",
+    "word_count": 56
+  },
+  {
+    "pattern": "saf",
+    "word_count": 37
+  },
+  {
+    "pattern": "cas",
+    "word_count": 252
+  },
+  {
+    "pattern": "tme",
+    "word_count": 80
+  },
+  {
+    "pattern": "rah",
+    "word_count": 48
+  },
+  {
+    "pattern": "sid",
+    "word_count": 205
+  },
+  {
+    "pattern": "ken",
+    "word_count": 146
+  },
+  {
+    "pattern": "ake",
+    "word_count": 322
+  },
+  {
+    "pattern": "nag",
+    "word_count": 114
+  },
+  {
+    "pattern": "oki",
+    "word_count": 64
+  },
+  {
+    "pattern": "nul",
+    "word_count": 65
+  },
+  {
+    "pattern": "cie",
+    "word_count": 155
+  },
+  {
+    "pattern": "deb",
+    "word_count": 88
+  },
+  {
+    "pattern": "har",
+    "word_count": 525
+  },
+  {
+    "pattern": "nte",
+    "word_count": 956
+  },
+  {
+    "pattern": "mob",
+    "word_count": 35
+  },
+  {
+    "pattern": "cur",
+    "word_count": 295
+  },
+  {
+    "pattern": "ust",
+    "word_count": 413
+  },
+  {
+    "pattern": "erl",
+    "word_count": 202
+  },
+  {
+    "pattern": "hne",
+    "word_count": 37
+  },
+  {
+    "pattern": "top",
+    "word_count": 235
+  },
+  {
+    "pattern": "efo",
+    "word_count": 62
+  },
+  {
+    "pattern": "gge",
+    "word_count": 188
+  },
+  {
+    "pattern": "eic",
+    "word_count": 35
+  },
+  {
+    "pattern": "ncu",
+    "word_count": 99
+  },
+  {
+    "pattern": "gig",
+    "word_count": 31
+  },
+  {
+    "pattern": "yll",
+    "word_count": 44
+  },
+  {
+    "pattern": "noe",
+    "word_count": 31
+  },
+  {
+    "pattern": "fro",
+    "word_count": 137
+  },
+  {
+    "pattern": "pig",
+    "word_count": 67
+  },
+  {
+    "pattern": "xen",
+    "word_count": 40
+  },
+  {
+    "pattern": "oin",
+    "word_count": 195
+  },
+  {
+    "pattern": "clo",
+    "word_count": 202
+  },
+  {
+    "pattern": "roi",
+    "word_count": 117
+  },
+  {
+    "pattern": "eer",
+    "word_count": 178
+  },
+  {
+    "pattern": "gio",
+    "word_count": 75
+  },
+  {
+    "pattern": "avi",
+    "word_count": 216
+  },
+  {
+    "pattern": "sio",
+    "word_count": 444
+  },
+  {
+    "pattern": "idu",
+    "word_count": 50
+  },
+  {
+    "pattern": "rph",
+    "word_count": 105
+  },
+  {
+    "pattern": "ldo",
+    "word_count": 36
+  },
+  {
+    "pattern": "ovi",
+    "word_count": 121
+  },
+  {
+    "pattern": "ien",
+    "word_count": 336
+  },
+  {
+    "pattern": "del",
+    "word_count": 275
+  },
+  {
+    "pattern": "eso",
+    "word_count": 124
+  },
+  {
+    "pattern": "arv",
+    "word_count": 58
+  },
+  {
+    "pattern": "bib",
+    "word_count": 44
+  },
+  {
+    "pattern": "dra",
+    "word_count": 244
+  },
+  {
+    "pattern": "onc",
+    "word_count": 259
+  },
+  {
+    "pattern": "rne",
+    "word_count": 219
+  },
+  {
+    "pattern": "ymp",
+    "word_count": 73
+  },
+  {
+    "pattern": "ord",
+    "word_count": 294
+  },
+  {
+    "pattern": "mop",
+    "word_count": 58
+  },
+  {
+    "pattern": "rbe",
+    "word_count": 86
+  },
+  {
+    "pattern": "umo",
+    "word_count": 54
+  },
+  {
+    "pattern": "uns",
+    "word_count": 148
+  },
+  {
+    "pattern": "ace",
+    "word_count": 450
+  },
+  {
+    "pattern": "fte",
+    "word_count": 90
+  },
+  {
+    "pattern": "abl",
+    "word_count": 961
+  },
+  {
+    "pattern": "ign",
+    "word_count": 245
+  },
+  {
+    "pattern": "ted",
+    "word_count": 988
+  },
+  {
+    "pattern": "urd",
+    "word_count": 65
+  },
+  {
+    "pattern": "oop",
+    "word_count": 115
+  },
+  {
+    "pattern": "ube",
+    "word_count": 75
+  },
+  {
+    "pattern": "zed",
+    "word_count": 142
+  },
+  {
+    "pattern": "rdi",
+    "word_count": 230
+  },
+  {
+    "pattern": "inn",
+    "word_count": 180
+  },
+  {
+    "pattern": "rap",
+    "word_count": 471
+  },
+  {
+    "pattern": "ogy",
+    "word_count": 365
+  },
+  {
+    "pattern": "mie",
+    "word_count": 70
+  },
+  {
+    "pattern": "cro",
+    "word_count": 415
+  },
+  {
+    "pattern": "iva",
+    "word_count": 186
+  },
+  {
+    "pattern": "ley",
+    "word_count": 129
+  },
+  {
+    "pattern": "uir",
+    "word_count": 62
+  },
+  {
+    "pattern": "orb",
+    "word_count": 108
+  },
+  {
+    "pattern": "oco",
+    "word_count": 117
+  },
+  {
+    "pattern": "avo",
+    "word_count": 120
+  },
+  {
+    "pattern": "ren",
+    "word_count": 489
+  },
+  {
+    "pattern": "sev",
+    "word_count": 51
+  },
+  {
+    "pattern": "leg",
+    "word_count": 198
+  },
+  {
+    "pattern": "kli",
+    "word_count": 55
+  },
+  {
+    "pattern": "pad",
+    "word_count": 62
+  },
+  {
+    "pattern": "tab",
+    "word_count": 332
+  },
+  {
+    "pattern": "uli",
+    "word_count": 129
+  },
+  {
+    "pattern": "tre",
+    "word_count": 425
+  },
+  {
+    "pattern": "dat",
+    "word_count": 178
+  },
+  {
+    "pattern": "rer",
+    "word_count": 195
+  },
+  {
+    "pattern": "mbi",
+    "word_count": 113
+  },
+  {
+    "pattern": "sex",
+    "word_count": 63
+  },
+  {
+    "pattern": "hbo",
+    "word_count": 30
+  },
+  {
+    "pattern": "oge",
+    "word_count": 223
+  },
+  {
+    "pattern": "rmo",
+    "word_count": 116
+  },
+  {
+    "pattern": "squ",
+    "word_count": 191
+  },
+  {
+    "pattern": "abo",
+    "word_count": 181
+  },
+  {
+    "pattern": "ews",
+    "word_count": 36
+  },
+  {
+    "pattern": "eus",
+    "word_count": 70
+  },
+  {
+    "pattern": "ive",
+    "word_count": 952
+  },
+  {
+    "pattern": "aes",
+    "word_count": 59
+  },
+  {
+    "pattern": "riz",
+    "word_count": 140
+  },
+  {
+    "pattern": "got",
+    "word_count": 77
+  },
+  {
+    "pattern": "idg",
+    "word_count": 62
+  },
+  {
+    "pattern": "gos",
+    "word_count": 46
+  },
+  {
+    "pattern": "ank",
+    "word_count": 201
+  },
+  {
+    "pattern": "och",
+    "word_count": 184
+  },
+  {
+    "pattern": "eal",
+    "word_count": 275
+  },
+  {
+    "pattern": "edg",
+    "word_count": 83
+  },
+  {
+    "pattern": "urn",
+    "word_count": 160
+  },
+  {
+    "pattern": "eho",
+    "word_count": 60
+  },
+  {
+    "pattern": "erg",
+    "word_count": 200
+  },
+  {
+    "pattern": "oir",
+    "word_count": 46
+  },
+  {
+    "pattern": "ano",
+    "word_count": 277
+  },
+  {
+    "pattern": "rba",
+    "word_count": 124
+  },
+  {
+    "pattern": "rit",
+    "word_count": 542
+  },
+  {
+    "pattern": "ude",
+    "word_count": 210
+  },
+  {
+    "pattern": "ste",
+    "word_count": 949
+  },
+  {
+    "pattern": "fan",
+    "word_count": 87
+  },
+  {
+    "pattern": "rpo",
+    "word_count": 78
+  },
+  {
+    "pattern": "sab",
+    "word_count": 95
+  },
+  {
+    "pattern": "ula",
+    "word_count": 615
+  },
+  {
+    "pattern": "pod",
+    "word_count": 91
+  },
+  {
+    "pattern": "iam",
+    "word_count": 43
+  },
+  {
+    "pattern": "sif",
+    "word_count": 56
+  },
+  {
+    "pattern": "reu",
+    "word_count": 40
+  },
+  {
+    "pattern": "hid",
+    "word_count": 51
+  },
+  {
+    "pattern": "xes",
+    "word_count": 31
+  },
+  {
+    "pattern": "ecc",
+    "word_count": 46
+  },
+  {
+    "pattern": "ong",
+    "word_count": 317
+  },
+  {
+    "pattern": "wak",
+    "word_count": 33
+  },
+  {
+    "pattern": "poo",
+    "word_count": 93
+  },
+  {
+    "pattern": "gir",
+    "word_count": 47
+  },
+  {
+    "pattern": "wee",
+    "word_count": 147
+  },
+  {
+    "pattern": "beg",
+    "word_count": 53
+  },
+  {
+    "pattern": "esu",
+    "word_count": 59
+  },
+  {
+    "pattern": "eir",
+    "word_count": 44
+  },
+  {
+    "pattern": "doo",
+    "word_count": 82
+  },
+  {
+    "pattern": "otc",
+    "word_count": 39
+  },
+  {
+    "pattern": "hex",
+    "word_count": 31
+  },
+  {
+    "pattern": "aic",
+    "word_count": 41
+  },
+  {
+    "pattern": "uti",
+    "word_count": 269
+  },
+  {
+    "pattern": "spe",
+    "word_count": 408
+  },
+  {
+    "pattern": "ped",
+    "word_count": 321
+  },
+  {
+    "pattern": "thi",
+    "word_count": 287
+  },
+  {
+    "pattern": "smo",
+    "word_count": 111
+  },
+  {
+    "pattern": "xpo",
+    "word_count": 36
+  },
+  {
+    "pattern": "who",
+    "word_count": 56
+  },
+  {
+    "pattern": "elu",
+    "word_count": 77
+  },
+  {
+    "pattern": "how",
+    "word_count": 61
+  },
+  {
+    "pattern": "ahe",
+    "word_count": 32
+  },
+  {
+    "pattern": "kni",
+    "word_count": 40
+  },
+  {
+    "pattern": "cam",
+    "word_count": 146
+  },
+  {
+    "pattern": "fai",
+    "word_count": 78
+  },
+  {
+    "pattern": "sph",
+    "word_count": 95
+  },
+  {
+    "pattern": "igu",
+    "word_count": 74
+  },
+  {
+    "pattern": "eps",
+    "word_count": 55
+  },
+  {
+    "pattern": "ait",
+    "word_count": 108
+  },
+  {
+    "pattern": "ron",
+    "word_count": 580
+  },
+  {
+    "pattern": "ity",
+    "word_count": 836
+  },
+  {
+    "pattern": "gag",
+    "word_count": 35
+  },
+  {
+    "pattern": "urc",
+    "word_count": 62
+  },
+  {
+    "pattern": "thy",
+    "word_count": 153
+  },
+  {
+    "pattern": "rfi",
+    "word_count": 36
+  },
+  {
+    "pattern": "sou",
+    "word_count": 106
+  },
+  {
+    "pattern": "isa",
+    "word_count": 218
+  },
+  {
+    "pattern": "war",
+    "word_count": 292
+  },
+  {
+    "pattern": "xer",
+    "word_count": 55
+  },
+  {
+    "pattern": "rad",
+    "word_count": 317
+  },
+  {
+    "pattern": "uff",
+    "word_count": 208
+  },
+  {
+    "pattern": "ern",
+    "word_count": 363
+  },
+  {
+    "pattern": "ali",
+    "word_count": 977
+  },
+  {
+    "pattern": "rea",
+    "word_count": 720
+  },
+  {
+    "pattern": "odi",
+    "word_count": 209
+  },
+  {
+    "pattern": "una",
+    "word_count": 153
+  },
+  {
+    "pattern": "rwa",
+    "word_count": 43
+  },
+  {
+    "pattern": "lph",
+    "word_count": 47
+  },
+  {
+    "pattern": "eou",
+    "word_count": 164
+  },
+  {
+    "pattern": "ten",
+    "word_count": 729
+  },
+  {
+    "pattern": "ssi",
+    "word_count": 586
+  },
+  {
+    "pattern": "bog",
+    "word_count": 36
+  },
+  {
+    "pattern": "iso",
+    "word_count": 210
+  },
+  {
+    "pattern": "lio",
+    "word_count": 180
+  },
+  {
+    "pattern": "own",
+    "word_count": 229
+  },
+  {
+    "pattern": "sep",
+    "word_count": 98
+  },
+  {
+    "pattern": "lee",
+    "word_count": 131
+  },
+  {
+    "pattern": "pog",
+    "word_count": 40
+  },
+  {
+    "pattern": "tto",
+    "word_count": 120
+  },
+  {
+    "pattern": "scr",
+    "word_count": 311
+  },
+  {
+    "pattern": "hoo",
+    "word_count": 213
+  },
+  {
+    "pattern": "boa",
+    "word_count": 146
+  },
+  {
+    "pattern": "git",
+    "word_count": 91
+  },
+  {
+    "pattern": "opi",
+    "word_count": 207
+  },
+  {
+    "pattern": "ies",
+    "word_count": 691
+  },
+  {
+    "pattern": "sth",
+    "word_count": 99
+  },
+  {
+    "pattern": "vio",
+    "word_count": 67
+  },
+  {
+    "pattern": "arr",
+    "word_count": 371
+  },
+  {
+    "pattern": "ndo",
+    "word_count": 246
+  },
+  {
+    "pattern": "gne",
+    "word_count": 116
+  },
+  {
+    "pattern": "rtu",
+    "word_count": 101
+  },
+  {
+    "pattern": "zon",
+    "word_count": 44
+  },
+  {
+    "pattern": "sha",
+    "word_count": 362
+  },
+  {
+    "pattern": "nut",
+    "word_count": 94
+  },
+  {
+    "pattern": "sce",
+    "word_count": 284
+  },
+  {
+    "pattern": "jan",
+    "word_count": 40
+  },
+  {
+    "pattern": "hus",
+    "word_count": 88
+  },
+  {
+    "pattern": "nta",
+    "word_count": 541
+  },
+  {
+    "pattern": "rom",
+    "word_count": 361
+  },
+  {
+    "pattern": "sin",
+    "word_count": 476
+  },
+  {
+    "pattern": "nfu",
+    "word_count": 49
+  },
+  {
+    "pattern": "rto",
+    "word_count": 84
+  },
+  {
+    "pattern": "mur",
+    "word_count": 84
+  },
+  {
+    "pattern": "rot",
+    "word_count": 298
+  },
+  {
+    "pattern": "rog",
+    "word_count": 225
+  },
+  {
+    "pattern": "teb",
+    "word_count": 30
+  },
+  {
+    "pattern": "sly",
+    "word_count": 192
+  },
+  {
+    "pattern": "ubr",
+    "word_count": 35
+  },
+  {
+    "pattern": "yto",
+    "word_count": 44
+  },
+  {
+    "pattern": "yse",
+    "word_count": 33
+  },
+  {
+    "pattern": "fal",
+    "word_count": 110
+  },
+  {
+    "pattern": "tuo",
+    "word_count": 31
+  },
+  {
+    "pattern": "yal",
+    "word_count": 43
+  },
+  {
+    "pattern": "ssu",
+    "word_count": 103
+  },
+  {
+    "pattern": "hog",
+    "word_count": 53
+  },
+  {
+    "pattern": "tio",
+    "word_count": 975
+  },
+  {
+    "pattern": "tep",
+    "word_count": 65
+  },
+  {
+    "pattern": "dve",
+    "word_count": 63
+  },
+  {
+    "pattern": "bur",
+    "word_count": 223
+  },
+  {
+    "pattern": "ays",
+    "word_count": 66
+  },
+  {
+    "pattern": "cka",
+    "word_count": 60
+  },
+  {
+    "pattern": "awa",
+    "word_count": 94
+  },
+  {
+    "pattern": "vid",
+    "word_count": 102
+  },
+  {
+    "pattern": "idd",
+    "word_count": 106
+  },
+  {
+    "pattern": "pec",
+    "word_count": 232
+  },
+  {
+    "pattern": "lop",
+    "word_count": 175
+  },
+  {
+    "pattern": "tud",
+    "word_count": 100
+  },
+  {
+    "pattern": "din",
+    "word_count": 574
+  },
+  {
+    "pattern": "sti",
+    "word_count": 958
+  },
+  {
+    "pattern": "nne",
+    "word_count": 317
+  },
+  {
+    "pattern": "cli",
+    "word_count": 181
+  },
+  {
+    "pattern": "yna",
+    "word_count": 66
+  },
+  {
+    "pattern": "scu",
+    "word_count": 168
+  },
+  {
+    "pattern": "rvi",
+    "word_count": 109
+  },
+  {
+    "pattern": "ele",
+    "word_count": 571
+  },
+  {
+    "pattern": "plu",
+    "word_count": 109
+  },
+  {
+    "pattern": "typ",
+    "word_count": 87
+  },
+  {
+    "pattern": "chn",
+    "word_count": 68
+  },
+  {
+    "pattern": "ipi",
+    "word_count": 71
+  },
+  {
+    "pattern": "cle",
+    "word_count": 323
+  },
+  {
+    "pattern": "cyc",
+    "word_count": 66
+  },
+  {
+    "pattern": "uge",
+    "word_count": 61
+  },
+  {
+    "pattern": "liz",
+    "word_count": 238
+  },
+  {
+    "pattern": "twa",
+    "word_count": 54
+  },
+  {
+    "pattern": "wil",
+    "word_count": 98
+  },
+  {
+    "pattern": "uid",
+    "word_count": 58
+  },
+  {
+    "pattern": "lav",
+    "word_count": 99
+  },
+  {
+    "pattern": "urs",
+    "word_count": 183
+  },
+  {
+    "pattern": "hem",
+    "word_count": 206
+  },
+  {
+    "pattern": "day",
+    "word_count": 69
+  },
+  {
+    "pattern": "rru",
+    "word_count": 41
+  },
+  {
+    "pattern": "ton",
+    "word_count": 504
+  },
+  {
+    "pattern": "oqu",
+    "word_count": 76
+  },
+  {
+    "pattern": "gas",
+    "word_count": 101
+  },
+  {
+    "pattern": "ucc",
+    "word_count": 75
+  },
+  {
+    "pattern": "lif",
+    "word_count": 156
+  },
+  {
+    "pattern": "has",
+    "word_count": 147
+  },
+  {
+    "pattern": "ulg",
+    "word_count": 58
+  },
+  {
+    "pattern": "haf",
+    "word_count": 32
+  },
+  {
+    "pattern": "nim",
+    "word_count": 109
+  },
+  {
+    "pattern": "lip",
+    "word_count": 156
+  },
+  {
+    "pattern": "awn",
+    "word_count": 55
+  },
+  {
+    "pattern": "sle",
+    "word_count": 125
+  },
+  {
+    "pattern": "gan",
+    "word_count": 236
+  },
+  {
+    "pattern": "rei",
+    "word_count": 117
+  },
+  {
+    "pattern": "rfe",
+    "word_count": 52
+  },
+  {
+    "pattern": "ire",
+    "word_count": 348
+  },
+  {
+    "pattern": "ais",
+    "word_count": 139
+  },
+  {
+    "pattern": "sic",
+    "word_count": 171
+  },
+  {
+    "pattern": "pee",
+    "word_count": 93
+  },
+  {
+    "pattern": "ike",
+    "word_count": 134
+  },
+  {
+    "pattern": "amo",
+    "word_count": 195
+  },
+  {
+    "pattern": "tow",
+    "word_count": 67
+  },
+  {
+    "pattern": "tma",
+    "word_count": 46
+  },
+  {
+    "pattern": "ria",
+    "word_count": 673
+  },
+  {
+    "pattern": "lle",
+    "word_count": 676
+  },
+  {
+    "pattern": "isc",
+    "word_count": 306
+  },
+  {
+    "pattern": "eld",
+    "word_count": 97
+  },
+  {
+    "pattern": "tte",
+    "word_count": 676
+  },
+  {
+    "pattern": "cit",
+    "word_count": 257
+  },
+  {
+    "pattern": "lur",
+    "word_count": 84
+  },
+  {
+    "pattern": "pac",
+    "word_count": 148
+  },
+  {
+    "pattern": "nco",
+    "word_count": 254
+  },
+  {
+    "pattern": "url",
+    "word_count": 69
+  },
+  {
+    "pattern": "ffi",
+    "word_count": 186
+  },
+  {
+    "pattern": "rul",
+    "word_count": 54
+  },
+  {
+    "pattern": "bod",
+    "word_count": 71
+  },
+  {
+    "pattern": "tac",
+    "word_count": 176
+  },
+  {
+    "pattern": "arb",
+    "word_count": 179
+  },
+  {
+    "pattern": "otu",
+    "word_count": 35
+  },
+  {
+    "pattern": "gro",
+    "word_count": 194
+  },
+  {
+    "pattern": "oub",
+    "word_count": 55
+  },
+  {
+    "pattern": "aru",
+    "word_count": 40
+  },
+  {
+    "pattern": "lob",
+    "word_count": 74
+  },
+  {
+    "pattern": "err",
+    "word_count": 362
+  },
+  {
+    "pattern": "ari",
+    "word_count": 910
+  },
+  {
+    "pattern": "tle",
+    "word_count": 339
+  },
+  {
+    "pattern": "aly",
+    "word_count": 100
+  },
+  {
+    "pattern": "mol",
+    "word_count": 163
+  },
+  {
+    "pattern": "fti",
+    "word_count": 30
+  },
+  {
+    "pattern": "yon",
+    "word_count": 52
+  },
+  {
+    "pattern": "bom",
+    "word_count": 45
+  },
+  {
+    "pattern": "cru",
+    "word_count": 178
+  },
+  {
+    "pattern": "mai",
+    "word_count": 114
+  },
+  {
+    "pattern": "rde",
+    "word_count": 158
+  },
+  {
+    "pattern": "suc",
+    "word_count": 75
+  },
+  {
+    "pattern": "dua",
+    "word_count": 45
+  },
+  {
+    "pattern": "agu",
+    "word_count": 83
+  },
+  {
+    "pattern": "ilk",
+    "word_count": 35
+  },
+  {
+    "pattern": "bas",
+    "word_count": 203
+  },
+  {
+    "pattern": "nab",
+    "word_count": 136
+  },
+  {
+    "pattern": "cip",
+    "word_count": 114
+  },
+  {
+    "pattern": "hag",
+    "word_count": 106
+  },
+  {
+    "pattern": "hle",
+    "word_count": 59
+  },
+  {
+    "pattern": "nan",
+    "word_count": 218
+  },
+  {
+    "pattern": "itr",
+    "word_count": 98
+  },
+  {
+    "pattern": "ero",
+    "word_count": 538
+  },
+  {
+    "pattern": "fus",
+    "word_count": 107
+  },
+  {
+    "pattern": "rav",
+    "word_count": 189
+  },
+  {
+    "pattern": "ngl",
+    "word_count": 264
+  },
+  {
+    "pattern": "vab",
+    "word_count": 42
+  },
+  {
+    "pattern": "imi",
+    "word_count": 235
+  },
+  {
+    "pattern": "ary",
+    "word_count": 413
+  },
+  {
+    "pattern": "niu",
+    "word_count": 62
+  },
+  {
+    "pattern": "ber",
+    "word_count": 522
+  },
+  {
+    "pattern": "oze",
+    "word_count": 41
+  },
+  {
+    "pattern": "elf",
+    "word_count": 134
+  },
+  {
+    "pattern": "kha",
+    "word_count": 31
+  },
+  {
+    "pattern": "nev",
+    "word_count": 38
+  },
+  {
+    "pattern": "uen",
+    "word_count": 139
+  },
+  {
+    "pattern": "fri",
+    "word_count": 152
+  },
+  {
+    "pattern": "mos",
+    "word_count": 143
+  },
+  {
+    "pattern": "opy",
+    "word_count": 78
+  },
+  {
+    "pattern": "put",
+    "word_count": 113
+  },
+  {
+    "pattern": "sem",
+    "word_count": 182
+  },
+  {
+    "pattern": "ate",
+    "word_count": 987
+  },
+  {
+    "pattern": "ttl",
+    "word_count": 135
+  },
+  {
+    "pattern": "eat",
+    "word_count": 443
+  },
+  {
+    "pattern": "exu",
+    "word_count": 52
+  },
+  {
+    "pattern": "nov",
+    "word_count": 65
+  },
+  {
+    "pattern": "hak",
+    "word_count": 43
+  },
+  {
+    "pattern": "nti",
+    "word_count": 955
+  },
+  {
+    "pattern": "eas",
+    "word_count": 305
+  },
+  {
+    "pattern": "ici",
+    "word_count": 481
+  },
+  {
+    "pattern": "lst",
+    "word_count": 32
+  },
+  {
+    "pattern": "aqu",
+    "word_count": 79
+  },
+  {
+    "pattern": "out",
+    "word_count": 488
+  },
+  {
+    "pattern": "asp",
+    "word_count": 119
+  },
+  {
+    "pattern": "fid",
+    "word_count": 73
+  },
+  {
+    "pattern": "ell",
+    "word_count": 819
+  },
+  {
+    "pattern": "bos",
+    "word_count": 73
+  },
+  {
+    "pattern": "ous",
+    "word_count": 988
+  },
+  {
+    "pattern": "bre",
+    "word_count": 251
+  },
+  {
+    "pattern": "sna",
+    "word_count": 80
+  },
+  {
+    "pattern": "nci",
+    "word_count": 245
+  },
+  {
+    "pattern": "jou",
+    "word_count": 41
+  },
+  {
+    "pattern": "jac",
+    "word_count": 95
+  },
+  {
+    "pattern": "nno",
+    "word_count": 95
+  },
+  {
+    "pattern": "bbe",
+    "word_count": 122
+  },
+  {
+    "pattern": "mer",
+    "word_count": 560
+  },
+  {
+    "pattern": "not",
+    "word_count": 180
+  },
+  {
+    "pattern": "thu",
+    "word_count": 98
+  },
+  {
+    "pattern": "hir",
+    "word_count": 128
+  },
+  {
+    "pattern": "nso",
+    "word_count": 130
+  },
+  {
+    "pattern": "uvi",
+    "word_count": 37
+  },
+  {
+    "pattern": "agr",
+    "word_count": 114
+  },
+  {
+    "pattern": "dig",
+    "word_count": 110
+  },
+  {
+    "pattern": "erv",
+    "word_count": 240
+  },
+  {
+    "pattern": "tea",
+    "word_count": 162
+  },
+  {
+    "pattern": "ark",
+    "word_count": 204
+  },
+  {
+    "pattern": "wor",
+    "word_count": 312
+  },
+  {
+    "pattern": "oce",
+    "word_count": 135
+  },
+  {
+    "pattern": "upp",
+    "word_count": 111
+  },
+  {
+    "pattern": "inl",
+    "word_count": 30
+  },
+  {
+    "pattern": "run",
+    "word_count": 158
+  },
+  {
+    "pattern": "ple",
+    "word_count": 412
+  },
+  {
+    "pattern": "umi",
+    "word_count": 111
+  },
+  {
+    "pattern": "ckl",
+    "word_count": 143
+  },
+  {
+    "pattern": "tef",
+    "word_count": 31
+  },
+  {
+    "pattern": "tha",
+    "word_count": 220
+  },
+  {
+    "pattern": "nkl",
+    "word_count": 48
+  },
+  {
+    "pattern": "pun",
+    "word_count": 102
+  },
+  {
+    "pattern": "cun",
+    "word_count": 56
+  },
+  {
+    "pattern": "arf",
+    "word_count": 57
+  },
+  {
+    "pattern": "ckw",
+    "word_count": 31
+  },
+  {
+    "pattern": "eab",
+    "word_count": 89
+  },
+  {
+    "pattern": "tat",
+    "word_count": 652
+  },
+  {
+    "pattern": "irm",
+    "word_count": 64
+  },
+  {
+    "pattern": "iab",
+    "word_count": 81
+  },
+  {
+    "pattern": "imp",
+    "word_count": 405
+  },
+  {
+    "pattern": "pop",
+    "word_count": 104
+  },
+  {
+    "pattern": "hav",
+    "word_count": 52
+  },
+  {
+    "pattern": "rrh",
+    "word_count": 55
+  },
+  {
+    "pattern": "tog",
+    "word_count": 93
+  },
+  {
+    "pattern": "iss",
+    "word_count": 373
+  },
+  {
+    "pattern": "win",
+    "word_count": 304
+  },
+  {
+    "pattern": "aig",
+    "word_count": 53
+  },
+  {
+    "pattern": "tut",
+    "word_count": 70
+  },
+  {
+    "pattern": "nny",
+    "word_count": 79
+  },
+  {
+    "pattern": "ppo",
+    "word_count": 113
+  },
+  {
+    "pattern": "rta",
+    "word_count": 169
+  },
+  {
+    "pattern": "ulu",
+    "word_count": 66
+  },
+  {
+    "pattern": "amb",
+    "word_count": 257
+  },
+  {
+    "pattern": "dju",
+    "word_count": 43
+  },
+  {
+    "pattern": "acu",
+    "word_count": 108
+  },
+  {
+    "pattern": "dys",
+    "word_count": 76
+  },
+  {
+    "pattern": "aim",
+    "word_count": 59
+  },
+  {
+    "pattern": "tum",
+    "word_count": 124
+  },
+  {
+    "pattern": "boy",
+    "word_count": 50
+  },
+  {
+    "pattern": "pyr",
+    "word_count": 73
+  },
+  {
+    "pattern": "goo",
+    "word_count": 84
+  },
+  {
+    "pattern": "iol",
+    "word_count": 165
+  },
+  {
+    "pattern": "dic",
+    "word_count": 368
+  },
+  {
+    "pattern": "ext",
+    "word_count": 228
+  },
+  {
+    "pattern": "das",
+    "word_count": 44
+  },
+  {
+    "pattern": "lid",
+    "word_count": 116
+  },
+  {
+    "pattern": "hes",
+    "word_count": 298
+  },
+  {
+    "pattern": "agi",
+    "word_count": 210
+  },
+  {
+    "pattern": "cch",
+    "word_count": 33
+  },
+  {
+    "pattern": "cor",
+    "word_count": 495
+  },
+  {
+    "pattern": "dul",
+    "word_count": 133
+  },
+  {
+    "pattern": "aem",
+    "word_count": 31
+  },
+  {
+    "pattern": "law",
+    "word_count": 66
+  },
+  {
+    "pattern": "unk",
+    "word_count": 113
+  },
+  {
+    "pattern": "owl",
+    "word_count": 97
+  },
+  {
+    "pattern": "ifi",
+    "word_count": 310
+  },
+  {
+    "pattern": "lls",
+    "word_count": 77
+  },
+  {
+    "pattern": "glu",
+    "word_count": 61
+  },
+  {
+    "pattern": "obt",
+    "word_count": 31
+  },
+  {
+    "pattern": "ans",
+    "word_count": 397
+  },
+  {
+    "pattern": "fes",
+    "word_count": 71
+  },
+  {
+    "pattern": "ein",
+    "word_count": 195
+  },
+  {
+    "pattern": "bat",
+    "word_count": 237
+  },
+  {
+    "pattern": "sol",
+    "word_count": 258
+  },
+  {
+    "pattern": "ggr",
+    "word_count": 45
+  },
+  {
+    "pattern": "hwa",
+    "word_count": 39
+  },
+  {
+    "pattern": "ium",
+    "word_count": 283
+  },
+  {
+    "pattern": "rub",
+    "word_count": 81
+  },
+  {
+    "pattern": "mbe",
+    "word_count": 159
+  },
+  {
+    "pattern": "mak",
+    "word_count": 67
+  },
+  {
+    "pattern": "rns",
+    "word_count": 37
+  },
+  {
+    "pattern": "hif",
+    "word_count": 34
+  },
+  {
+    "pattern": "isl",
+    "word_count": 61
+  },
+  {
+    "pattern": "ocy",
+    "word_count": 50
+  },
+  {
+    "pattern": "ean",
+    "word_count": 251
+  },
+  {
+    "pattern": "nal",
+    "word_count": 642
+  },
+  {
+    "pattern": "gra",
+    "word_count": 799
+  },
+  {
+    "pattern": "ded",
+    "word_count": 384
+  },
+  {
+    "pattern": "oro",
+    "word_count": 210
+  },
+  {
+    "pattern": "ise",
+    "word_count": 546
+  },
+  {
+    "pattern": "nde",
+    "word_count": 860
+  },
+  {
+    "pattern": "asa",
+    "word_count": 103
+  },
+  {
+    "pattern": "ged",
+    "word_count": 194
+  },
+  {
+    "pattern": "orm",
+    "word_count": 330
+  },
+  {
+    "pattern": "vet",
+    "word_count": 68
+  },
+  {
+    "pattern": "ske",
+    "word_count": 111
+  },
+  {
+    "pattern": "bad",
+    "word_count": 52
+  },
+  {
+    "pattern": "rke",
+    "word_count": 97
+  },
+  {
+    "pattern": "vin",
+    "word_count": 248
+  },
+  {
+    "pattern": "bes",
+    "word_count": 118
+  },
+  {
+    "pattern": "nvo",
+    "word_count": 40
+  },
+  {
+    "pattern": "ume",
+    "word_count": 190
+  },
+  {
+    "pattern": "mes",
+    "word_count": 234
+  },
+  {
+    "pattern": "emn",
+    "word_count": 32
+  },
+  {
+    "pattern": "hec",
+    "word_count": 80
+  },
+  {
+    "pattern": "eta",
+    "word_count": 287
+  },
+  {
+    "pattern": "tos",
+    "word_count": 135
+  },
+  {
+    "pattern": "ras",
+    "word_count": 311
+  },
+  {
+    "pattern": "bou",
+    "word_count": 178
+  },
+  {
+    "pattern": "ith",
+    "word_count": 277
+  },
+  {
+    "pattern": "uda",
+    "word_count": 64
+  },
+  {
+    "pattern": "ypo",
+    "word_count": 107
+  },
+  {
+    "pattern": "iom",
+    "word_count": 52
+  },
+  {
+    "pattern": "eac",
+    "word_count": 141
+  },
+  {
+    "pattern": "ddy",
+    "word_count": 49
+  },
+  {
+    "pattern": "sch",
+    "word_count": 271
+  },
+  {
+    "pattern": "mbo",
+    "word_count": 132
+  },
+  {
+    "pattern": "rai",
+    "word_count": 347
+  },
+  {
+    "pattern": "ecr",
+    "word_count": 113
+  },
+  {
+    "pattern": "rio",
+    "word_count": 297
+  },
+  {
+    "pattern": "pri",
+    "word_count": 368
+  },
+  {
+    "pattern": "isk",
+    "word_count": 54
+  },
+  {
+    "pattern": "ach",
+    "word_count": 449
+  },
+  {
+    "pattern": "sla",
+    "word_count": 153
+  },
+  {
+    "pattern": "dum",
+    "word_count": 59
+  },
+  {
+    "pattern": "set",
+    "word_count": 145
+  },
+  {
+    "pattern": "wis",
+    "word_count": 82
+  },
+  {
+    "pattern": "esc",
+    "word_count": 301
+  },
+  {
+    "pattern": "oka",
+    "word_count": 30
+  },
+  {
+    "pattern": "cia",
+    "word_count": 302
+  },
+  {
+    "pattern": "gib",
+    "word_count": 47
+  },
+  {
+    "pattern": "ser",
+    "word_count": 464
+  },
+  {
+    "pattern": "ype",
+    "word_count": 141
+  },
+  {
+    "pattern": "ode",
+    "word_count": 255
+  },
+  {
+    "pattern": "mmi",
+    "word_count": 148
+  },
+  {
+    "pattern": "ccl",
+    "word_count": 31
+  },
+  {
+    "pattern": "gab",
+    "word_count": 44
+  },
+  {
+    "pattern": "erk",
+    "word_count": 63
+  },
+  {
+    "pattern": "unf",
+    "word_count": 62
+  },
+  {
+    "pattern": "ims",
+    "word_count": 39
+  },
+  {
+    "pattern": "gai",
+    "word_count": 50
+  },
+  {
+    "pattern": "hre",
+    "word_count": 82
+  },
+  {
+    "pattern": "uth",
+    "word_count": 157
+  },
+  {
+    "pattern": "uto",
+    "word_count": 181
+  },
+  {
+    "pattern": "hoc",
+    "word_count": 63
+  },
+  {
+    "pattern": "bra",
+    "word_count": 401
+  },
+  {
+    "pattern": "eom",
+    "word_count": 30
+  },
+  {
+    "pattern": "aun",
+    "word_count": 117
+  },
+  {
+    "pattern": "bru",
+    "word_count": 98
+  },
+  {
+    "pattern": "teo",
+    "word_count": 57
+  },
+  {
+    "pattern": "ltr",
+    "word_count": 42
+  },
+  {
+    "pattern": "siz",
+    "word_count": 47
+  },
+  {
+    "pattern": "sir",
+    "word_count": 40
+  },
+  {
+    "pattern": "jam",
+    "word_count": 40
+  },
+  {
+    "pattern": "mud",
+    "word_count": 32
+  },
+  {
+    "pattern": "enn",
+    "word_count": 176
+  },
+  {
+    "pattern": "eng",
+    "word_count": 145
+  },
+  {
+    "pattern": "bun",
+    "word_count": 80
+  },
+  {
+    "pattern": "eep",
+    "word_count": 158
+  },
+  {
+    "pattern": "cti",
+    "word_count": 767
+  },
+  {
+    "pattern": "exc",
+    "word_count": 137
+  },
+  {
+    "pattern": "spo",
+    "word_count": 247
+  },
+  {
+    "pattern": "nju",
+    "word_count": 38
+  },
+  {
+    "pattern": "asu",
+    "word_count": 56
+  },
+  {
+    "pattern": "dop",
+    "word_count": 53
+  },
+  {
+    "pattern": "nke",
+    "word_count": 126
+  },
+  {
+    "pattern": "bio",
+    "word_count": 158
+  },
+  {
+    "pattern": "eup",
+    "word_count": 45
+  },
+  {
+    "pattern": "lep",
+    "word_count": 104
+  },
+  {
+    "pattern": "opa",
+    "word_count": 152
+  },
+  {
+    "pattern": "api",
+    "word_count": 162
+  },
+  {
+    "pattern": "vir",
+    "word_count": 89
+  },
+  {
+    "pattern": "eak",
+    "word_count": 155
+  },
+  {
+    "pattern": "epe",
+    "word_count": 143
+  },
+  {
+    "pattern": "utt",
+    "word_count": 183
+  },
+  {
+    "pattern": "pep",
+    "word_count": 35
+  },
+  {
+    "pattern": "coh",
+    "word_count": 39
+  },
+  {
+    "pattern": "sip",
+    "word_count": 37
+  },
+  {
+    "pattern": "ced",
+    "word_count": 209
+  },
+  {
+    "pattern": "heo",
+    "word_count": 69
+  },
+  {
+    "pattern": "for",
+    "word_count": 618
+  },
+  {
+    "pattern": "bee",
+    "word_count": 71
+  },
+  {
+    "pattern": "gri",
+    "word_count": 198
+  },
+  {
+    "pattern": "arc",
+    "word_count": 358
+  },
+  {
+    "pattern": "lla",
+    "word_count": 489
+  },
+  {
+    "pattern": "sky",
+    "word_count": 56
+  },
+  {
+    "pattern": "sat",
+    "word_count": 217
+  },
+  {
+    "pattern": "bac",
+    "word_count": 284
+  },
+  {
+    "pattern": "mpe",
+    "word_count": 284
+  },
+  {
+    "pattern": "iog",
+    "word_count": 49
+  },
+  {
+    "pattern": "aga",
+    "word_count": 148
+  },
+  {
+    "pattern": "dit",
+    "word_count": 244
+  },
+  {
+    "pattern": "orp",
+    "word_count": 163
+  },
+  {
+    "pattern": "sie",
+    "word_count": 122
+  },
+  {
+    "pattern": "tic",
+    "word_count": 979
+  },
+  {
+    "pattern": "sil",
+    "word_count": 165
+  },
+  {
+    "pattern": "gna",
+    "word_count": 101
+  },
+  {
+    "pattern": "cai",
+    "word_count": 44
+  },
+  {
+    "pattern": "dag",
+    "word_count": 44
+  },
+  {
+    "pattern": "iga",
+    "word_count": 182
+  },
+  {
+    "pattern": "gle",
+    "word_count": 245
+  },
+  {
+    "pattern": "wig",
+    "word_count": 30
+  },
+  {
+    "pattern": "onf",
+    "word_count": 166
+  },
+  {
+    "pattern": "rew",
+    "word_count": 111
+  },
+  {
+    "pattern": "taf",
+    "word_count": 33
+  },
+  {
+    "pattern": "hil",
+    "word_count": 315
+  },
+  {
+    "pattern": "psi",
+    "word_count": 104
+  },
+  {
+    "pattern": "lci",
+    "word_count": 36
+  },
+  {
+    "pattern": "teu",
+    "word_count": 37
+  },
+  {
+    "pattern": "adl",
+    "word_count": 48
+  },
+  {
+    "pattern": "eme",
+    "word_count": 463
+  },
+  {
+    "pattern": "iro",
+    "word_count": 118
+  },
+  {
+    "pattern": "eel",
+    "word_count": 109
+  },
+  {
+    "pattern": "rik",
+    "word_count": 35
+  },
+  {
+    "pattern": "inq",
+    "word_count": 41
+  },
+  {
+    "pattern": "leu",
+    "word_count": 70
+  },
+  {
+    "pattern": "ful",
+    "word_count": 367
+  },
+  {
+    "pattern": "cup",
+    "word_count": 61
+  },
+  {
+    "pattern": "sor",
+    "word_count": 256
+  },
+  {
+    "pattern": "rle",
+    "word_count": 118
+  },
+  {
+    "pattern": "env",
+    "word_count": 33
+  },
+  {
+    "pattern": "tom",
+    "word_count": 317
+  },
+  {
+    "pattern": "ioc",
+    "word_count": 52
+  },
+  {
+    "pattern": "nsu",
+    "word_count": 162
+  },
+  {
+    "pattern": "uan",
+    "word_count": 97
+  },
+  {
+    "pattern": "erp",
+    "word_count": 160
+  },
+  {
+    "pattern": "inu",
+    "word_count": 114
+  },
+  {
+    "pattern": "oye",
+    "word_count": 37
+  },
+  {
+    "pattern": "lus",
+    "word_count": 243
+  },
+  {
+    "pattern": "ois",
+    "word_count": 134
+  },
+  {
+    "pattern": "eva",
+    "word_count": 146
+  },
+  {
+    "pattern": "gli",
+    "word_count": 127
+  },
+  {
+    "pattern": "azz",
+    "word_count": 36
+  },
+  {
+    "pattern": "elv",
+    "word_count": 44
+  },
+  {
+    "pattern": "eck",
+    "word_count": 174
+  },
+  {
+    "pattern": "ear",
+    "word_count": 527
+  },
+  {
+    "pattern": "unw",
+    "word_count": 38
+  },
+  {
+    "pattern": "ila",
+    "word_count": 234
+  },
+  {
+    "pattern": "lon",
+    "word_count": 280
+  },
+  {
+    "pattern": "ale",
+    "word_count": 450
+  },
+  {
+    "pattern": "vag",
+    "word_count": 77
+  },
+  {
+    "pattern": "eno",
+    "word_count": 302
+  },
+  {
+    "pattern": "pen",
+    "word_count": 425
+  },
+  {
+    "pattern": "lat",
+    "word_count": 971
+  },
+  {
+    "pattern": "ely",
+    "word_count": 343
+  },
+  {
+    "pattern": "ods",
+    "word_count": 45
+  },
+  {
+    "pattern": "onk",
+    "word_count": 64
+  },
+  {
+    "pattern": "gni",
+    "word_count": 113
+  },
+  {
+    "pattern": "cos",
+    "word_count": 158
+  },
+  {
+    "pattern": "aud",
+    "word_count": 134
+  },
+  {
+    "pattern": "iec",
+    "word_count": 39
+  },
+  {
+    "pattern": "adv",
+    "word_count": 115
+  },
+  {
+    "pattern": "bri",
+    "word_count": 299
+  },
+  {
+    "pattern": "tin",
+    "word_count": 980
+  },
+  {
+    "pattern": "way",
+    "word_count": 137
+  },
+  {
+    "pattern": "unh",
+    "word_count": 35
+  },
+  {
+    "pattern": "usk",
+    "word_count": 43
+  },
+  {
+    "pattern": "aye",
+    "word_count": 97
+  },
+  {
+    "pattern": "ide",
+    "word_count": 673
+  },
+  {
+    "pattern": "onn",
+    "word_count": 133
+  },
+  {
+    "pattern": "enl",
+    "word_count": 47
+  },
+  {
+    "pattern": "sed",
+    "word_count": 338
+  },
+  {
+    "pattern": "hei",
+    "word_count": 105
+  },
+  {
+    "pattern": "alu",
+    "word_count": 115
+  },
+  {
+    "pattern": "itz",
+    "word_count": 39
+  },
+  {
+    "pattern": "enf",
+    "word_count": 39
+  },
+  {
+    "pattern": "kne",
+    "word_count": 49
+  },
+  {
+    "pattern": "ncy",
+    "word_count": 202
+  },
+  {
+    "pattern": "pre",
+    "word_count": 793
+  },
+  {
+    "pattern": "umu",
+    "word_count": 32
+  },
+  {
+    "pattern": "dre",
+    "word_count": 167
+  },
+  {
+    "pattern": "yce",
+    "word_count": 34
+  },
+  {
+    "pattern": "dly",
+    "word_count": 169
+  },
+  {
+    "pattern": "agl",
+    "word_count": 38
+  },
+  {
+    "pattern": "tak",
+    "word_count": 83
+  },
+  {
+    "pattern": "gou",
+    "word_count": 59
+  },
+  {
+    "pattern": "elt",
+    "word_count": 89
+  },
+  {
+    "pattern": "dim",
+    "word_count": 77
+  },
+  {
+    "pattern": "dma",
+    "word_count": 39
+  },
+  {
+    "pattern": "eba",
+    "word_count": 101
+  },
+  {
+    "pattern": "egu",
+    "word_count": 66
+  },
+  {
+    "pattern": "ngo",
+    "word_count": 126
+  },
+  {
+    "pattern": "coo",
+    "word_count": 112
+  },
+  {
+    "pattern": "lem",
+    "word_count": 181
+  },
+  {
+    "pattern": "tib",
+    "word_count": 78
+  },
+  {
+    "pattern": "oda",
+    "word_count": 80
+  },
+  {
+    "pattern": "enc",
+    "word_count": 714
+  },
+  {
+    "pattern": "lne",
+    "word_count": 71
+  },
+  {
+    "pattern": "apo",
+    "word_count": 207
+  },
+  {
+    "pattern": "hly",
+    "word_count": 36
+  },
+  {
+    "pattern": "ehe",
+    "word_count": 78
+  },
+  {
+    "pattern": "coi",
+    "word_count": 64
+  },
+  {
+    "pattern": "usi",
+    "word_count": 197
+  },
+  {
+    "pattern": "rag",
+    "word_count": 290
+  },
+  {
+    "pattern": "eri",
+    "word_count": 962
+  },
+  {
+    "pattern": "seb",
+    "word_count": 30
+  },
+  {
+    "pattern": "met",
+    "word_count": 468
+  },
+  {
+    "pattern": "pit",
+    "word_count": 200
+  },
+  {
+    "pattern": "ush",
+    "word_count": 158
+  },
+  {
+    "pattern": "ege",
+    "word_count": 122
+  },
+  {
+    "pattern": "roe",
+    "word_count": 42
+  },
+  {
+    "pattern": "hea",
+    "word_count": 449
+  },
+  {
+    "pattern": "iot",
+    "word_count": 94
+  },
+  {
+    "pattern": "anc",
+    "word_count": 735
+  },
+  {
+    "pattern": "oul",
+    "word_count": 114
+  },
+  {
+    "pattern": "bia",
+    "word_count": 236
+  },
+  {
+    "pattern": "nep",
+    "word_count": 60
+  },
+  {
+    "pattern": "ars",
+    "word_count": 199
+  },
+  {
+    "pattern": "hai",
+    "word_count": 115
+  },
+  {
+    "pattern": "esi",
+    "word_count": 433
+  },
+  {
+    "pattern": "ups",
+    "word_count": 30
+  },
+  {
+    "pattern": "hro",
+    "word_count": 313
+  },
+  {
+    "pattern": "ych",
+    "word_count": 97
+  },
+  {
+    "pattern": "tch",
+    "word_count": 388
+  },
+  {
+    "pattern": "aci",
+    "word_count": 318
+  },
+  {
+    "pattern": "ppa",
+    "word_count": 67
+  },
+  {
+    "pattern": "teg",
+    "word_count": 67
+  },
+  {
+    "pattern": "ilt",
+    "word_count": 90
+  },
+  {
+    "pattern": "pur",
+    "word_count": 170
+  },
+  {
+    "pattern": "gad",
+    "word_count": 47
+  },
+  {
+    "pattern": "lki",
+    "word_count": 36
+  },
+  {
+    "pattern": "loc",
+    "word_count": 254
+  },
+  {
+    "pattern": "smu",
+    "word_count": 39
+  },
+  {
+    "pattern": "yla",
+    "word_count": 56
+  },
+  {
+    "pattern": "cin",
+    "word_count": 307
+  },
+  {
+    "pattern": "nfa",
+    "word_count": 55
+  },
+  {
+    "pattern": "yel",
+    "word_count": 49
+  },
+  {
+    "pattern": "owb",
+    "word_count": 34
+  },
+  {
+    "pattern": "ola",
+    "word_count": 308
+  },
+  {
+    "pattern": "eau",
+    "word_count": 93
+  },
+  {
+    "pattern": "bai",
+    "word_count": 50
+  },
+  {
+    "pattern": "key",
+    "word_count": 84
+  },
+  {
+    "pattern": "cla",
+    "word_count": 281
+  },
+  {
+    "pattern": "obo",
+    "word_count": 72
+  },
+  {
+    "pattern": "ife",
+    "word_count": 156
+  },
+  {
+    "pattern": "kis",
+    "word_count": 57
+  },
+  {
+    "pattern": "lvi",
+    "word_count": 36
+  },
+  {
+    "pattern": "aur",
+    "word_count": 127
+  },
+  {
+    "pattern": "bin",
+    "word_count": 205
+  },
+  {
+    "pattern": "oit",
+    "word_count": 54
+  },
+  {
+    "pattern": "dos",
+    "word_count": 72
+  },
+  {
+    "pattern": "orc",
+    "word_count": 111
+  },
+  {
+    "pattern": "cim",
+    "word_count": 31
+  },
+  {
+    "pattern": "toc",
+    "word_count": 134
+  },
+  {
+    "pattern": "nqu",
+    "word_count": 83
+  },
+  {
+    "pattern": "eke",
+    "word_count": 40
+  },
+  {
+    "pattern": "yra",
+    "word_count": 48
+  },
+  {
+    "pattern": "ffo",
+    "word_count": 39
+  },
+  {
+    "pattern": "our",
+    "word_count": 370
+  },
+  {
+    "pattern": "cki",
+    "word_count": 136
+  },
+  {
+    "pattern": "god",
+    "word_count": 48
+  },
+  {
+    "pattern": "mat",
+    "word_count": 654
+  },
+  {
+    "pattern": "nin",
+    "word_count": 458
+  },
+  {
+    "pattern": "nks",
+    "word_count": 40
+  },
+  {
+    "pattern": "yar",
+    "word_count": 53
+  },
+  {
+    "pattern": "olv",
+    "word_count": 59
+  },
+  {
+    "pattern": "ipt",
+    "word_count": 75
+  },
+  {
+    "pattern": "ump",
+    "word_count": 186
+  },
+  {
+    "pattern": "pal",
+    "word_count": 226
+  },
+  {
+    "pattern": "pos",
+    "word_count": 400
+  },
+  {
+    "pattern": "wle",
+    "word_count": 52
+  },
+  {
+    "pattern": "nve",
+    "word_count": 143
+  },
+  {
+    "pattern": "rst",
+    "word_count": 129
+  },
+  {
+    "pattern": "ody",
+    "word_count": 86
+  },
+  {
+    "pattern": "ibi",
+    "word_count": 120
+  },
+  {
+    "pattern": "mas",
+    "word_count": 221
+  },
+  {
+    "pattern": "exh",
+    "word_count": 35
+  },
+  {
+    "pattern": "pai",
+    "word_count": 91
+  },
+  {
+    "pattern": "ino",
+    "word_count": 292
+  },
+  {
+    "pattern": "sau",
+    "word_count": 76
+  },
+  {
+    "pattern": "ief",
+    "word_count": 39
+  },
+  {
+    "pattern": "jor",
+    "word_count": 32
+  },
+  {
+    "pattern": "abb",
+    "word_count": 135
+  },
+  {
+    "pattern": "oss",
+    "word_count": 273
+  },
+  {
+    "pattern": "mam",
+    "word_count": 49
+  },
+  {
+    "pattern": "dup",
+    "word_count": 30
+  },
+  {
+    "pattern": "wit",
+    "word_count": 130
+  },
+  {
+    "pattern": "kle",
+    "word_count": 157
+  },
+  {
+    "pattern": "itl",
+    "word_count": 39
+  },
+  {
+    "pattern": "sub",
+    "word_count": 277
+  },
+  {
+    "pattern": "cif",
+    "word_count": 58
+  },
+  {
+    "pattern": "ibr",
+    "word_count": 71
+  },
+  {
+    "pattern": "izi",
+    "word_count": 41
+  },
+  {
+    "pattern": "mod",
+    "word_count": 124
+  },
+  {
+    "pattern": "ats",
+    "word_count": 85
+  },
+  {
+    "pattern": "ubl",
+    "word_count": 88
+  },
+  {
+    "pattern": "rri",
+    "word_count": 264
+  },
+  {
+    "pattern": "sno",
+    "word_count": 90
+  },
+  {
+    "pattern": "dir",
+    "word_count": 74
+  },
+  {
+    "pattern": "tub",
+    "word_count": 52
+  },
+  {
+    "pattern": "igg",
+    "word_count": 101
+  },
+  {
+    "pattern": "ppr",
+    "word_count": 117
+  },
+  {
+    "pattern": "lap",
+    "word_count": 123
+  },
+  {
+    "pattern": "wne",
+    "word_count": 39
+  },
+  {
+    "pattern": "nol",
+    "word_count": 141
+  },
+  {
+    "pattern": "nie",
+    "word_count": 142
+  },
+  {
+    "pattern": "fou",
+    "word_count": 78
+  },
+  {
+    "pattern": "lil",
+    "word_count": 46
+  },
+  {
+    "pattern": "fig",
+    "word_count": 60
+  },
+  {
+    "pattern": "yph",
+    "word_count": 50
+  },
+  {
+    "pattern": "ova",
+    "word_count": 76
+  },
+  {
+    "pattern": "udg",
+    "word_count": 70
+  },
+  {
+    "pattern": "eny",
+    "word_count": 36
+  },
+  {
+    "pattern": "ost",
+    "word_count": 468
+  },
+  {
+    "pattern": "als",
+    "word_count": 144
+  },
+  {
+    "pattern": "poi",
+    "word_count": 116
+  },
+  {
+    "pattern": "raw",
+    "word_count": 105
+  },
+  {
+    "pattern": "hom",
+    "word_count": 209
+  },
+  {
+    "pattern": "nds",
+    "word_count": 141
+  },
+  {
+    "pattern": "nfe",
+    "word_count": 85
+  },
+  {
+    "pattern": "rre",
+    "word_count": 305
+  },
+  {
+    "pattern": "ttr",
+    "word_count": 35
+  },
+  {
+    "pattern": "otr",
+    "word_count": 76
+  },
+  {
+    "pattern": "one",
+    "word_count": 713
+  },
+  {
+    "pattern": "ime",
+    "word_count": 358
+  },
+  {
+    "pattern": "udo",
+    "word_count": 42
+  },
+  {
+    "pattern": "ubi",
+    "word_count": 75
+  },
+  {
+    "pattern": "ios",
+    "word_count": 84
+  },
+  {
+    "pattern": "pan",
+    "word_count": 314
+  },
+  {
+    "pattern": "elo",
+    "word_count": 205
+  },
+  {
+    "pattern": "vil",
+    "word_count": 129
+  },
+  {
+    "pattern": "oad",
+    "word_count": 116
+  },
+  {
+    "pattern": "anl",
+    "word_count": 30
+  },
+  {
+    "pattern": "cko",
+    "word_count": 33
+  },
+  {
+    "pattern": "sav",
+    "word_count": 57
+  },
+  {
+    "pattern": "sci",
+    "word_count": 199
+  },
+  {
+    "pattern": "apu",
+    "word_count": 45
+  },
+  {
+    "pattern": "rry",
+    "word_count": 129
+  },
+  {
+    "pattern": "eph",
+    "word_count": 184
+  },
+  {
+    "pattern": "gre",
+    "word_count": 273
+  },
+  {
+    "pattern": "tod",
+    "word_count": 36
+  },
+  {
+    "pattern": "esm",
+    "word_count": 39
+  },
+  {
+    "pattern": "tee",
+    "word_count": 174
+  },
+  {
+    "pattern": "wel",
+    "word_count": 166
+  },
+  {
+    "pattern": "chu",
+    "word_count": 133
+  },
+  {
+    "pattern": "amy",
+    "word_count": 56
+  },
+  {
+    "pattern": "uci",
+    "word_count": 96
+  },
+  {
+    "pattern": "niv",
+    "word_count": 49
+  },
+  {
+    "pattern": "oxy",
+    "word_count": 35
+  },
+  {
+    "pattern": "ibe",
+    "word_count": 139
+  },
+  {
+    "pattern": "tui",
+    "word_count": 30
+  },
+  {
+    "pattern": "ddi",
+    "word_count": 100
+  },
+  {
+    "pattern": "nsh",
+    "word_count": 67
+  },
+  {
+    "pattern": "pha",
+    "word_count": 323
+  },
+  {
+    "pattern": "nap",
+    "word_count": 103
+  },
+  {
+    "pattern": "asm",
+    "word_count": 84
+  },
+  {
+    "pattern": "gla",
+    "word_count": 135
+  },
+  {
+    "pattern": "bby",
+    "word_count": 44
+  },
+  {
+    "pattern": "man",
+    "word_count": 953
+  },
+  {
+    "pattern": "ist",
+    "word_count": 992
+  },
+  {
+    "pattern": "ref",
+    "word_count": 218
+  },
+  {
+    "pattern": "oic",
+    "word_count": 59
+  },
+  {
+    "pattern": "opr",
+    "word_count": 78
+  },
+  {
+    "pattern": "dus",
+    "word_count": 57
+  },
+  {
+    "pattern": "aba",
+    "word_count": 185
+  },
+  {
+    "pattern": "sua",
+    "word_count": 63
+  },
+  {
+    "pattern": "uat",
+    "word_count": 165
+  },
+  {
+    "pattern": "inv",
+    "word_count": 138
+  },
+  {
+    "pattern": "orr",
+    "word_count": 201
+  },
+  {
+    "pattern": "siv",
+    "word_count": 232
+  },
+  {
+    "pattern": "fea",
+    "word_count": 71
+  },
+  {
+    "pattern": "hew",
+    "word_count": 37
+  },
+  {
+    "pattern": "res",
+    "word_count": 958
+  },
+  {
+    "pattern": "equ",
+    "word_count": 221
+  },
+  {
+    "pattern": "agm",
+    "word_count": 35
+  },
+  {
+    "pattern": "son",
+    "word_count": 342
+  },
+  {
+    "pattern": "lty",
+    "word_count": 31
+  },
+  {
+    "pattern": "yro",
+    "word_count": 78
+  },
+  {
+    "pattern": "alg",
+    "word_count": 78
+  },
+  {
+    "pattern": "hni",
+    "word_count": 37
+  },
+  {
+    "pattern": "oty",
+    "word_count": 50
+  },
+  {
+    "pattern": "dis",
+    "word_count": 883
+  },
+  {
+    "pattern": "utl",
+    "word_count": 42
+  },
+  {
+    "pattern": "loi",
+    "word_count": 78
+  },
+  {
+    "pattern": "cod",
+    "word_count": 73
+  },
+  {
+    "pattern": "nun",
+    "word_count": 44
+  },
+  {
+    "pattern": "ave",
+    "word_count": 408
+  },
+  {
+    "pattern": "owi",
+    "word_count": 60
+  },
+  {
+    "pattern": "bso",
+    "word_count": 49
+  },
+  {
+    "pattern": "erc",
+    "word_count": 297
+  },
+  {
+    "pattern": "van",
+    "word_count": 174
+  },
+  {
+    "pattern": "usl",
+    "word_count": 159
+  },
+  {
+    "pattern": "fac",
+    "word_count": 201
+  },
+  {
+    "pattern": "rut",
+    "word_count": 75
+  },
+  {
+    "pattern": "ier",
+    "word_count": 507
+  },
+  {
+    "pattern": "fug",
+    "word_count": 37
+  },
+  {
+    "pattern": "adm",
+    "word_count": 74
+  },
+  {
+    "pattern": "ese",
+    "word_count": 269
+  },
+  {
+    "pattern": "ibo",
+    "word_count": 33
+  },
+  {
+    "pattern": "dor",
+    "word_count": 161
+  },
+  {
+    "pattern": "adj",
+    "word_count": 61
+  },
+  {
+    "pattern": "rie",
+    "word_count": 499
+  },
+  {
+    "pattern": "aut",
+    "word_count": 252
+  },
+  {
+    "pattern": "oed",
+    "word_count": 41
+  },
+  {
+    "pattern": "kab",
+    "word_count": 45
+  },
+  {
+    "pattern": "hit",
+    "word_count": 153
+  },
+  {
+    "pattern": "nip",
+    "word_count": 58
+  },
+  {
+    "pattern": "eve",
+    "word_count": 402
+  },
+  {
+    "pattern": "tfu",
+    "word_count": 74
+  },
+  {
+    "pattern": "eff",
+    "word_count": 103
+  },
+  {
+    "pattern": "nex",
+    "word_count": 65
+  },
+  {
+    "pattern": "adr",
+    "word_count": 104
+  },
+  {
+    "pattern": "gog",
+    "word_count": 51
+  },
+  {
+    "pattern": "vel",
+    "word_count": 338
+  },
+  {
+    "pattern": "ors",
+    "word_count": 244
+  },
+  {
+    "pattern": "big",
+    "word_count": 54
+  },
+  {
+    "pattern": "ulp",
+    "word_count": 41
+  },
+  {
+    "pattern": "ngt",
+    "word_count": 39
+  },
+  {
+    "pattern": "aty",
+    "word_count": 30
+  },
+  {
+    "pattern": "nch",
+    "word_count": 382
+  },
+  {
+    "pattern": "rop",
+    "word_count": 560
+  },
+  {
+    "pattern": "ify",
+    "word_count": 120
+  },
+  {
+    "pattern": "igo",
+    "word_count": 96
+  },
+  {
+    "pattern": "uou",
+    "word_count": 77
+  },
+  {
+    "pattern": "cks",
+    "word_count": 141
+  },
+  {
+    "pattern": "lta",
+    "word_count": 60
+  },
+  {
+    "pattern": "fin",
+    "word_count": 250
+  },
+  {
+    "pattern": "tet",
+    "word_count": 77
+  },
+  {
+    "pattern": "tim",
+    "word_count": 268
+  },
+  {
+    "pattern": "nas",
+    "word_count": 122
+  },
+  {
+    "pattern": "mil",
+    "word_count": 233
+  },
+  {
+    "pattern": "nme",
+    "word_count": 64
+  },
+  {
+    "pattern": "wha",
+    "word_count": 59
+  },
+  {
+    "pattern": "ope",
+    "word_count": 323
+  },
+  {
+    "pattern": "wat",
+    "word_count": 130
+  },
+  {
+    "pattern": "ina",
+    "word_count": 772
+  },
+  {
+    "pattern": "mit",
+    "word_count": 304
+  },
+  {
+    "pattern": "old",
+    "word_count": 219
+  },
+  {
+    "pattern": "dar",
+    "word_count": 145
+  },
+  {
+    "pattern": "ols",
+    "word_count": 37
+  },
+  {
+    "pattern": "adu",
+    "word_count": 71
+  },
+  {
+    "pattern": "evi",
+    "word_count": 226
+  },
+  {
+    "pattern": "eol",
+    "word_count": 97
+  },
+  {
+    "pattern": "imo",
+    "word_count": 121
+  },
+  {
+    "pattern": "umb",
+    "word_count": 218
+  },
+  {
+    "pattern": "low",
+    "word_count": 281
+  },
+  {
+    "pattern": "cet",
+    "word_count": 87
+  },
+  {
+    "pattern": "nee",
+    "word_count": 110
+  },
+  {
+    "pattern": "lai",
+    "word_count": 173
+  },
+  {
+    "pattern": "ill",
+    "word_count": 811
+  },
+  {
+    "pattern": "tro",
+    "word_count": 666
+  },
+  {
+    "pattern": "ffa",
+    "word_count": 38
+  },
+  {
+    "pattern": "ngi",
+    "word_count": 133
+  },
+  {
+    "pattern": "ils",
+    "word_count": 73
+  },
+  {
+    "pattern": "hab",
+    "word_count": 131
+  },
+  {
+    "pattern": "neu",
+    "word_count": 131
+  },
+  {
+    "pattern": "nid",
+    "word_count": 47
+  },
+  {
+    "pattern": "gee",
+    "word_count": 46
+  },
+  {
+    "pattern": "tyl",
+    "word_count": 72
+  },
+  {
+    "pattern": "rsh",
+    "word_count": 99
+  },
+  {
+    "pattern": "abd",
+    "word_count": 36
+  },
+  {
+    "pattern": "hut",
+    "word_count": 42
+  },
+  {
+    "pattern": "det",
+    "word_count": 133
+  },
+  {
+    "pattern": "tie",
+    "word_count": 305
+  },
+  {
+    "pattern": "nar",
+    "word_count": 296
+  },
+  {
+    "pattern": "nly",
+    "word_count": 52
+  },
+  {
+    "pattern": "bed",
+    "word_count": 164
+  },
+  {
+    "pattern": "lue",
+    "word_count": 129
+  },
+  {
+    "pattern": "dia",
+    "word_count": 360
+  },
+  {
+    "pattern": "bbl",
+    "word_count": 101
+  },
+  {
+    "pattern": "nae",
+    "word_count": 42
+  },
+  {
+    "pattern": "bab",
+    "word_count": 63
+  },
+  {
+    "pattern": "nhe",
+    "word_count": 47
+  },
+  {
+    "pattern": "lto",
+    "word_count": 43
+  },
+  {
+    "pattern": "umm",
+    "word_count": 129
+  },
+  {
+    "pattern": "aer",
+    "word_count": 79
+  },
+  {
+    "pattern": "ird",
+    "word_count": 135
+  },
+  {
+    "pattern": "oil",
+    "word_count": 116
+  },
+  {
+    "pattern": "swi",
+    "word_count": 78
+  },
+  {
+    "pattern": "ync",
+    "word_count": 55
+  },
+  {
+    "pattern": "ddl",
+    "word_count": 136
+  },
+  {
+    "pattern": "osh",
+    "word_count": 67
+  },
+  {
+    "pattern": "hur",
+    "word_count": 88
+  },
+  {
+    "pattern": "xim",
+    "word_count": 35
+  },
+  {
+    "pattern": "hti",
+    "word_count": 35
+  },
+  {
+    "pattern": "mph",
+    "word_count": 103
+  },
+  {
+    "pattern": "oor",
+    "word_count": 89
+  },
+  {
+    "pattern": "oet",
+    "word_count": 35
+  },
+  {
+    "pattern": "tun",
+    "word_count": 102
+  },
+  {
+    "pattern": "she",
+    "word_count": 420
+  },
+  {
+    "pattern": "ish",
+    "word_count": 649
+  },
+  {
+    "pattern": "ogo",
+    "word_count": 59
+  },
+  {
+    "pattern": "ial",
+    "word_count": 582
+  },
+  {
+    "pattern": "iar",
+    "word_count": 121
+  },
+  {
+    "pattern": "rro",
+    "word_count": 174
+  },
+  {
+    "pattern": "axe",
+    "word_count": 30
+  },
+  {
+    "pattern": "ori",
+    "word_count": 626
+  },
+  {
+    "pattern": "cap",
+    "word_count": 260
+  },
+  {
+    "pattern": "mut",
+    "word_count": 87
+  },
+  {
+    "pattern": "dow",
+    "word_count": 174
+  },
+  {
+    "pattern": "uit",
+    "word_count": 187
+  },
+  {
+    "pattern": "per",
+    "word_count": 966
+  },
+  {
+    "pattern": "igm",
+    "word_count": 32
+  },
+  {
+    "pattern": "now",
+    "word_count": 100
+  },
+  {
+    "pattern": "sag",
+    "word_count": 79
+  },
+  {
+    "pattern": "acq",
+    "word_count": 47
+  },
+  {
+    "pattern": "omy",
+    "word_count": 142
+  },
+  {
+    "pattern": "hap",
+    "word_count": 103
+  },
+  {
+    "pattern": "urg",
+    "word_count": 156
+  },
+  {
+    "pattern": "chl",
+    "word_count": 76
+  },
+  {
+    "pattern": "niz",
+    "word_count": 124
+  },
+  {
+    "pattern": "sme",
+    "word_count": 74
+  },
+  {
+    "pattern": "ulo",
+    "word_count": 109
+  },
+  {
+    "pattern": "twe",
+    "word_count": 52
+  },
+  {
+    "pattern": "con",
+    "word_count": 983
+  },
+  {
+    "pattern": "hic",
+    "word_count": 221
+  },
+  {
+    "pattern": "non",
+    "word_count": 220
+  },
+  {
+    "pattern": "nor",
+    "word_count": 193
+  },
+  {
+    "pattern": "bul",
+    "word_count": 181
+  },
+  {
+    "pattern": "ghe",
+    "word_count": 55
+  },
+  {
+    "pattern": "pub",
+    "word_count": 33
+  },
+  {
+    "pattern": "oan",
+    "word_count": 54
+  },
+  {
+    "pattern": "cid",
+    "word_count": 164
+  },
+  {
+    "pattern": "rox",
+    "word_count": 40
+  },
+  {
+    "pattern": "rgu",
+    "word_count": 42
+  },
+  {
+    "pattern": "und",
+    "word_count": 641
+  },
+  {
+    "pattern": "nga",
+    "word_count": 109
+  },
+  {
+    "pattern": "lah",
+    "word_count": 35
+  },
+  {
+    "pattern": "ual",
+    "word_count": 248
+  },
+  {
+    "pattern": "exe",
+    "word_count": 92
+  },
+  {
+    "pattern": "lyc",
+    "word_count": 53
+  },
+  {
+    "pattern": "bit",
+    "word_count": 220
+  },
+  {
+    "pattern": "did",
+    "word_count": 58
+  },
+  {
+    "pattern": "eha",
+    "word_count": 42
+  },
+  {
+    "pattern": "cul",
+    "word_count": 489
+  },
+  {
+    "pattern": "bbi",
+    "word_count": 91
+  },
+  {
+    "pattern": "rau",
+    "word_count": 73
+  },
+  {
+    "pattern": "ony",
+    "word_count": 167
+  },
+  {
+    "pattern": "llo",
+    "word_count": 401
+  },
+  {
+    "pattern": "por",
+    "word_count": 355
+  },
+  {
+    "pattern": "gga",
+    "word_count": 38
+  },
+  {
+    "pattern": "sop",
+    "word_count": 108
+  },
+  {
+    "pattern": "rbu",
+    "word_count": 43
+  },
+  {
+    "pattern": "pia",
+    "word_count": 100
+  },
+  {
+    "pattern": "phi",
+    "word_count": 408
+  },
+  {
+    "pattern": "sei",
+    "word_count": 63
+  },
+  {
+    "pattern": "men",
+    "word_count": 974
+  },
+  {
+    "pattern": "sue",
+    "word_count": 34
+  },
+  {
+    "pattern": "unr",
+    "word_count": 65
+  },
+  {
+    "pattern": "stu",
+    "word_count": 205
+  },
+  {
+    "pattern": "liq",
+    "word_count": 39
+  },
+  {
+    "pattern": "wag",
+    "word_count": 47
+  },
+  {
+    "pattern": "ute",
+    "word_count": 298
+  },
+  {
+    "pattern": "hte",
+    "word_count": 101
+  },
+  {
+    "pattern": "cel",
+    "word_count": 189
+  },
+  {
+    "pattern": "ges",
+    "word_count": 156
+  },
+  {
+    "pattern": "lim",
+    "word_count": 203
+  },
+  {
+    "pattern": "oen",
+    "word_count": 34
+  },
+  {
+    "pattern": "bot",
+    "word_count": 100
+  },
+  {
+    "pattern": "ald",
+    "word_count": 100
+  },
+  {
+    "pattern": "fib",
+    "word_count": 41
+  },
+  {
+    "pattern": "sus",
+    "word_count": 106
+  },
+  {
+    "pattern": "noi",
+    "word_count": 81
+  },
+  {
+    "pattern": "use",
+    "word_count": 358
+  },
+  {
+    "pattern": "ymo",
+    "word_count": 50
+  },
+  {
+    "pattern": "ona",
+    "word_count": 665
+  },
+  {
+    "pattern": "lme",
+    "word_count": 51
+  }
+]

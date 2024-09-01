@@ -1,188 +1,102 @@
-<script>
-	import { onMount } from 'svelte';
-	import { fade, fly } from 'svelte/transition';
-	import Keyboard from './Keyboard.svelte';
+<script lang="ts">
+	import Keyboard from 'svelte-keyboard';
 	import WordList from './WordList.svelte';
+	import { calculateWordScore } from './wordScore';
+	import { Toaster, toast } from 'svelte-sonner';
+	let currentWord = '';
+	let wordList: { word: string; score: number }[] = [];
+	let wordBeingTyped = '';
+
+	const onKeydown = async (event: KeyboardEvent | CustomEvent) => {
+		let key: string;
+		if (event instanceof KeyboardEvent) {
+			key = event.key.toLowerCase();
+		} else {
+			key = event.detail.toLowerCase();
+		}
+
+		if (key.length === 1 && key.match(/[a-z]/)) {
+			currentWord += key;
+		} else if (key === 'enter') {
+			if (currentWord.length > 0) {
+				try {
+					const score = await calculateWordScore(data.pattern, currentWord);
+					// Don't add the word if it's already in the list
+					if (wordList.some((word) => word.word === currentWord)) {
+						toast.info('Word already in list');
+						return;
+					} else if (currentWord.length <= 4) {
+						toast.error('Word must be at least 4 characters long');
+						return;
+					}
+					wordList = [...wordList, { word: currentWord, score: score.totalScore }];
+					currentWord = '';
+				} catch (error) {
+					if (
+						error instanceof Error &&
+						error.message === 'Word does not contain the required sequence'
+					) {
+						toast.error('Word does not contain the required sequence');
+					} else {
+						console.error('Error calculating word score:', error);
+					}
+				}
+			}
+		} else if (key === 'backspace') {
+			currentWord = currentWord.slice(0, -1);
+		}
+	};
 
 	export let data;
-	let pattern = '';
-	let words = [];
-	let userGuess = '';
-	let message = '';
-	let correctGuesses = [];
-	const MIN_SCORE = 100;
-	const MIN_WORD_COUNT = 50;
-
-	let gameState = 'playing'; // 'playing', 'won'
-
-	onMount(async () => {
-		await generateNewPattern();
-		loadGuesses();
-	});
-
-	async function generateNewPattern() {
-		const letters = 'abcdefghijklmnopqrstuvwxyz';
-		let newPattern;
-		do {
-			newPattern =
-				'*' +
-				letters[Math.floor(Math.random() * 26)] +
-				letters[Math.floor(Math.random() * 26)] +
-				letters[Math.floor(Math.random() * 26)] +
-				'*';
-			words = await fetchWords(newPattern);
-		} while (words.length < MIN_WORD_COUNT);
-
-		pattern = newPattern.slice(1, -1);
-		correctGuesses = [];
-		message = '';
-		gameState = 'playing';
-	}
-
-	async function fetchWords(pattern) {
-		const response = await fetch(`https://api.datamuse.com/words?sp=${pattern}&max=1000`);
-		const data = await response.json();
-		return data
-			.filter((item) => item.word.indexOf(' ') === -1 && item.score >= MIN_SCORE)
-			.map((item) => item.word);
-	}
-
-	function checkGuess() {
-		if (words.includes(userGuess) && !correctGuesses.includes(userGuess)) {
-			correctGuesses = [userGuess, ...correctGuesses];
-			message = 'Correct!';
-			saveGuesses();
-			if (correctGuesses.length === words.length) {
-				gameState = 'won';
-			}
-		} else if (correctGuesses.includes(userGuess)) {
-			message = 'You already guessed that word!';
-		} else {
-			message = 'Incorrect. Try again!';
-		}
-		userGuess = '';
-	}
-
-	function handleKeyPress(event) {
-		if (event.key === 'Enter') {
-			checkGuess();
-		} else if (event.key === 'Backspace') {
-			userGuess = userGuess.slice(0, -1);
-		} else if (event.key.length === 1) {
-			userGuess += event.key;
-		}
-	}
-
-	function saveGuesses() {
-		const today = new Date().toISOString().split('T')[0];
-		localStorage.setItem(`guesses_${today}`, JSON.stringify(correctGuesses));
-	}
-
-	function loadGuesses() {
-		const today = new Date().toISOString().split('T')[0];
-		const savedGuesses = localStorage.getItem(`guesses_${today}`);
-		if (savedGuesses) {
-			correctGuesses = JSON.parse(savedGuesses);
-		}
-	}
 </script>
 
-<svelte:window on:keydown={handleKeyPress} />
-<main class="max-w-xs">
-	<div class="info flex flex-col justify-center items-center">
-		<div class="today my-6 flex gap-2">
-			{#each pattern.split('') as letter}
-				<span
-					class="text-5xl font-serif flex font-bold justify-center capitalize items-center bg-purple text-white p-3 size-16"
+<Toaster richColors position="top-center" />
+<svelte:window on:keydown={onKeydown} />
+<main class="flex flex-col justify-between h-full">
+	<div class="px-4 py-4 bg-gray-200 border-t-2 border-b-2 border-gray-300">
+		<p class="pb-2 font-sans font-bold text-gray-500 text-md">
+			Puzzle #{data.puzzleNumber}
+		</p>
+		<h1 class="flex gap-2 font-sans text-2xl font-black uppercase">
+			{#each data.pattern as letter}
+				<span class="flex items-center justify-center text-white rounded-sm size-12 bg-blue"
 					>{letter}</span
 				>
 			{/each}
-		</div>
-		<p>Correct guesses: {correctGuesses.length} / {words.length}</p>
+		</h1>
 	</div>
 
-	<WordList {pattern} words={correctGuesses} />
-
-	<div class="message" transition:fade>
-		{message}
+	<div class="flex-grow overflow-y-auto h-[400px]">
+		<WordList pattern={data.pattern} {wordList} />
 	</div>
 
-	{#if gameState === 'playing'}
-		<div class="user-input">
-			<input type="text" bind:value={userGuess} placeholder="Type your guess" readonly />
+	<div class="w-full h-10 mx-auto border-b border-gray-300 flex-gro">
+		<!-- Show the current word being typed -->
+		<div class="flex justify-center gap-2 text-xl font-bold uppercase fond-bold">
+			{#each currentWord as letter}
+				<span>{letter}</span>
+			{/each}
 		</div>
-		<Keyboard on:keyPress={handleKeyPress} {userGuess} />
-	{:else}
-		<div class="win-message" transition:fly={{ y: 200, duration: 2000 }}>
-			<h2>Congratulations! You've guessed all the words!</h2>
-			<button on:click={generateNewPattern}>Play Again</button>
-		</div>
-	{/if}
+	</div>
+	<div class="px-2 pt-6">
+		<Keyboard
+			--height="3.5rem"
+			--font-family="Open Sans Variable"
+			--font-size="16px"
+			--font-weight="700"
+			--text-transform="uppercase"
+			layout="wordle"
+			on:keydown={onKeydown}
+		/>
+	</div>
 </main>
 
 <style>
-	main {
-		margin: 0 auto;
-
-		font-family: Arial, sans-serif;
+	:global(.svelte-keyboard svg) {
+		margin-left: 15px;
 	}
-
-	.pattern {
-		font-weight: bold;
-		color: #8a2be2;
-	}
-
-	.message {
-		text-align: center;
-		font-size: 1.2em;
-		margin: 20px 0;
-		min-height: 1.5em;
-	}
-
-	.win-message {
-		text-align: center;
-		margin-top: 20px;
-	}
-
-	button {
-		background-color: #ff3e00;
+	:global(.svelte-keyboard .key.active) {
+		background-color: #4a90e2;
 		color: white;
-		border: none;
-		padding: 10px 20px;
-		font-size: 1em;
-		cursor: pointer;
-		border-radius: 5px;
-	}
-
-	button:hover {
-		background-color: #ff6340;
-	}
-	.user-input {
-		display: flex;
-		justify-content: center;
-		margin-bottom: 20px;
-	}
-
-	.user-input input {
-		padding: 10px;
-		font-size: 1rem;
-		border: 1px solid #ccc;
-		border-radius: 5px 0 0 5px;
-		width: 200px;
-	}
-
-	.user-input button {
-		padding: 10px 20px;
-		font-size: 1rem;
-		background-color: #ff3e00;
-		color: white;
-		border: none;
-		border-radius: 0 5px 5px 0;
-		cursor: pointer;
-	}
-
-	.user-input button:disabled {
-		background-color: #ccc;
-		cursor: not-allowed;
 	}
 </style>
